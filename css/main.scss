@@ -1122,7 +1122,7 @@ body {
               white-space: nowrap;
               overflow: hidden;
               text-overflow: ellipsis;
-              text-transform: uppercase;
+//              text-transform: uppercase;
               background-color: transparent;
               margin-top: 0;
               margin-bottom: 0;
@@ -1294,16 +1294,16 @@ body {
 
       .post.prev {
         @include column(6,12);
-        padding: 0 0 0 0.5em;
+        padding: 0;
       }
 
       .post.next {
         @include column(6,12);
-        padding: 0 0.5em 0 0;
+        padding: 00;
         border-left: 0;
         float: right;
         text-align: right;
-        border-right: 0.5em solid $red;
+        border-right: 0.2em solid $red;
       }
     }
   }

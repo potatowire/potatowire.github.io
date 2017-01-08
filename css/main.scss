@@ -701,6 +701,7 @@ body {
 
         aside {
           @include column(12,12);
+          float: none; 
           padding: 1em 0;
           border-top: 1px dotted $base01;
           border-bottom: 1px dotted $base01;
@@ -794,7 +795,7 @@ body {
             @include column(6,12);
             @include push(3,12);
             padding: 0;
-            border: 1px solid $lighter-gray;
+            border: 1px dotted $base01;
           }
 
           .product-art {
@@ -803,7 +804,7 @@ body {
             margin: 0 auto;
             padding: 0.2em;
             background-color: $base02;
-            border: 1px solid $light-gray;
+            border: 1px dotted $base01;
           }
 
           .details {
@@ -819,21 +820,24 @@ body {
             .name {
               font-family: "Oswald", sans-serif;
               font-size: 1.3em;
-              color: $base1;
+              color: $yellow;
               padding-bottom: 0.3em;
 
               a {
-                color: $base1;
+                color: $yellow;
               }
             }
 
             .description {
               font-style: italic;
+              color: $base01;
             }
 
             .price {
               font-family: "Oswald", sans-serif;
+              padding-top: 0.5em;
               padding-bottom: 0.5em;
+              color: $cyan;
             }
           }
         }
@@ -1351,8 +1355,8 @@ body {
         aside,
         .image-block,
         .video {
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
+          margin-top: 0.5em;
+          margin-bottom: 0.5em;
 
           &.wide {
             @include column(12,10);

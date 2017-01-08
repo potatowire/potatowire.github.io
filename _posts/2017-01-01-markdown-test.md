@@ -61,7 +61,7 @@ Integer a dolor tortor, ac porta arcu. Nulla ornare magna vitae arcu egestas non
 
 ###### Header six
 
-This is a copy of one of the sample pages from the [WordPress](http://wordpress.org) theme development test content. I found it handy to keep a copy of this for building sites that aren’t using WordPress. 99% of the credit goes to them, I’m just hosting it in a handy place in case it’s useful to anyone other than me.
+<p class="has-pullquote" data-pullquote="This is a pullquote. The longer the pullquote is, the more important it is that it fit with the surrounding content." markdown="1">This is a copy of one of the sample pages from the [WordPress](http://wordpress.org) theme development test content. I found it handy to keep a copy of this for building sites that aren’t using WordPress. 99% of the credit goes to them, I’m just hosting it in a handy place in case it’s useful to anyone other than me.</p>
 
 ## Blockquote Tests
 

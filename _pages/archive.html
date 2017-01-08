@@ -5,7 +5,10 @@ title: Archive
 ---
 
 <div id="archive">
-  <input class="search" placeholder="Search" name="search" />
+  <div class="search-box">
+    <input class="search" placeholder="Search" name="search" />
+    <i class="fa fa-search" aria-hidden="true"></i>
+  </div>
   <ul class="archive-list list">
     {% for post in site.posts %}
       <li class="archive-item">

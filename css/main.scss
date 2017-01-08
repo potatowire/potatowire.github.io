@@ -1082,9 +1082,21 @@ body {
         text-align: center;
       }
 
+      .search-box {
+        @include column(12,12);
+        padding: 0;
+        position: relative;
+
+        .fa-search {
+          position: absolute;
+          top: 1.05em;
+          left: 1em;
+        }
+      }
+      
       .search {
         @include column(12,12);
-        padding: 0.3em 1em 0.3em;
+        padding: 0.3em 1em 0.3em 2.2em;
         margin: 0.5em 0 1em;
         font-family: "Oswald", sans-serif;
         background-color: $base02;
@@ -1122,7 +1134,6 @@ body {
               white-space: nowrap;
               overflow: hidden;
               text-overflow: ellipsis;
-//              text-transform: uppercase;
               background-color: transparent;
               margin-top: 0;
               margin-bottom: 0;

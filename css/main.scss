@@ -39,19 +39,36 @@ $green: #519548;
 $dark-blue: #274E65;
 $blue: #4386af;
 
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #657b83;
+$base0:     #839496;
+$base1:     #93a1a1;
+$base2:     #eee8d5;
+$base3:     #fdf6e3;
+$yellow:    #b58900;
+$orange:    #cb4b16;
+$red:       #dc322f;
+$magenta:   #d33682;
+$violet:    #6c71c4;
+$blue:      #268bd2;
+$cyan:      #2aa198;
+$green:     #859900;
+
 // General Styling
 
 h1,
 h2 {
   @include column(12,12);
   padding: 0;
-	font-family: "futura-pt", "Futura PT", sans-serif;
-	text-transform: uppercase;
+	font-family: "Oswald", sans-serif;
 	margin-top: 0.3em;
 	margin-bottom: 0.5em;
 	letter-spacing: 1.5px;
-	font-weight: 500;
+	font-weight: 100;
 	line-height: 1.2em;
+  color: $base1;
 }
 
 h3,
@@ -60,14 +77,13 @@ h5,
 h6 {
   @include column(12,12);
   padding: 0;
-  font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
-  text-transform: capitalize;
-  font-style: italic;
+	font-family: "Oswald", sans-serif;
   margin-top: 0.3em;
   margin-bottom: 0.5em;
   letter-spacing: 1px;
-  font-weight: 500;
+  font-weight: 100;
   line-height: 1.2em;
+  color: $base1;
 }
 
 h1 {
@@ -76,7 +92,6 @@ h1 {
 
 h2 {
   font-size: 1.4em;
-  color: $dark-gray;
 }
 
 h3 {
@@ -103,15 +118,16 @@ p {
 blockquote {
   @include column(12,12);
   padding: 0.5em 0 0 1em;
-  color: $gray;
+  color: $base1;
   margin: 0 0 0.7em;;
-  border-left: 0.3em solid $light-gray;
+  border-left: 0.3em solid $base02;
 
   p:first-child {
     font-size: 1em;
   }
 
   p:last-child {
+    padding-bottom: 0.5em; 
     margin-bottom: 0;
   }
 
@@ -126,7 +142,7 @@ blockquote {
     padding-right: 2em;
 
     a {
-      color: $gray !important;
+      color: $base1 !important;
       text-decoration: underline;
     }
   }
@@ -169,21 +185,27 @@ table {
   @include column(12,12);
   padding: 0;
   margin-bottom: 0.7em;
-  background-color: $lighter-gray;
+  background-color: $base02;
   font-size: 0.9em;
-  display: table
+  display: table;
+  border: 1px dotted $base02;
 
   tr {
     @include column(12,12);
     padding: 0;
+    float: none;
     display: table-row;
+
+    &.alternate {
+      background-color: $base03;
+    }
   }
 
   th {
-    font-family: "futura-pt", "Futura PT", sans-serif;
-    font-weight: normal;
+    font-family: "Oswald", sans-serif;
+    font-weight: 100;
     text-transform: uppercase;
-    color: $dark-gray;
+    color: $magenta;
     padding: 0.2em 0.5em;
     text-align: left;
     display: table-cell;
@@ -200,18 +222,18 @@ a,
 a:active,
 a:visited,
 a:focus {
-	color: $red;
+	color: $yellow;
 	text-decoration: none;
 	outline: none;
 
 	&:hover {
-		color: $dark-red;
+		color: $orange;
 		text-decoration: none;
 	}
 
   code {
-    color: $red !important;
-    border-color: $red !important;
+    color: $yellow !important;
+    border-color: $yellow !important;
   }
 }
 
@@ -266,38 +288,59 @@ ol li {
   padding-left: 0.3em;
 }
 
+address {
+  margin-bottom: 0.7em;
+}
+
 code {
   font-family: "inconsolata", monospace;
   font-size: 0.8em;
   line-height: 1.3em;
-  background-color: $lighter-gray;
-  color: $black;
+  background-color: $base02;
+  color: $base1;
   display: inline-block;
   padding: 0 0.3em;
   border-radius: 0.2em;
-  border: 1px solid $light-gray;
+  border: 1px dotted $base0;
 }
 
+.highlight code {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  width: 100%;
 
+  .gutter {
+    padding: 0 0.7em;
+  }
+  
+  .code {
+    background-color: $base03;
+    
+    pre {
+      margin: 0;
+    }
+  }
+ }
 
 .prettyprint {
   @include column(12,12);
-  padding: 1em 2em !important;
+  padding: 1em 2.3em !important;
   margin-top: 1em;
   margin-bottom: 2.3em;
-  font-family: "inconsolata", monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 0.8em;
   line-height: 1.3em;
   border: none;
-  background-color: $black;
-  color: $ecru;
+  background-color: $base02;
+  color: $base0;
   border-radius: 0.2em;
-  box-shadow: 0 0 0.5em $carbon inset;
+  box-shadow: 0 0 0.5em $base03 inset;
 
   &.linenums {
     counter-reset: line-numbering;
     position: relative;
-    padding: 0 2.5em !important;
+    padding: 0 2em !important;
 
     ol {
       border-left: 1px solid $dark-gray;
@@ -413,7 +456,7 @@ code {
 // }
 
 kbd, tt {
-  font-family: "inconsolata", monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 0.9em;
 }
 
@@ -439,7 +482,7 @@ hr {
   padding: 0;
   border: none;
   border-top: medium double $light-gray;
-  color: $light-gray;
+  color: $base01;
   text-align: center;
   margin-top: 1.2em;
 }
@@ -451,24 +494,24 @@ hr:after {
   top: -0.5em;
   font-size: 1.2em;
   padding: 0 0.3em;
-  background: $ecru;
+  background: $base01;
   letter-spacing: -0.1em;
 }
 
 .logo {
-  font-weight: normal;
-  font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
-  text-transform: none;
-  letter-spacing: normal;
+  font-weight: 100;
+  font-family: "Oswald", sans-serif; 
+  text-transform: uppercase;
+  letter-spacing: 1px;
 
   a {
-    color: $black;
+    color: $base3;
 
     &:hover,
     &:active,
     &:visited,
     &:focus {
-      color: $black;
+      color: $base3;
     }
   }
 
@@ -518,19 +561,26 @@ hr:after {
 body {
 	@include grid();
   padding: 0 1em;
-  background-color: $ecru;
-  color: $black;
-  font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
+  background-color: $base03;
+  color: $base0;
+  font-family: "PT Serif", serif;
 
   #header {
   	@include column(12);
-  	padding: 1.5em 0 0.5em;
+  	padding: 0;
+    margin-top: 1em; 
+    margin-bottom: 1.5em;
     text-align: center;
     overflow-x: hidden;
+    background-color: $base02;
+    border-top: 1px dotted $base0;
+    border-bottom: 1px dotted $base0;
 
     .logo {
       position: relative;
       left: -0.2em;
+      padding: 0.3em 0 0.4em;
+      margin: 0;
     }
 
     .navbar {
@@ -556,33 +606,27 @@ body {
         .banner-image {
           @include column(12,12);
           padding: 0;
-          border: 1px solid $light-gray;
+          border: 1px dotted $base01;
         }
 
         .banner-caption {
           @include column(12,12);
-          padding: 0.7em 0 0.5em;
+          padding: 0.5em 0 0.5em;
           font-size: 0.9em;
           font-style: italic;
-          color: $gray;
+          color: $base01;
           text-align: right;
           line-height: 1.1em;
           margin-bottom: 0.5em;
 
           a {
-            color: $dark-gray;
+            color: $base1;
+
+            &:hover {
+              color: $red;
+            }
           }
 
-  		    a:before {
-  		      content: "\00a0";
-  		      background-image: url("../assets/theme/photo.svg");
-  		      background-repeat: no-repeat;
-  		      width: 1.25em;
-  		      display: inline-block;
-  		      background-size: 1.1em auto;
-  		      position: relative;
-  		      top: -0.2em;
-  		    }
         }
 
       }
@@ -598,29 +642,35 @@ body {
           margin: 0;
 
           a {
-            color: $black;
+            color: $yellow;
           }
         }
 
         .post-subtitle {
           @include column(12,12);
-          padding: 0;
+          padding: 0.5em 0 0;
           margin: 0;
-          font-size: 1.2em;
-          color: $gray;
-          font-weight: normal;
+          font-size: 1.1em;
+          font-weight: 100;
+          text-transform: uppercase;
+          color: $green;
         }
 
         .post-meta {
           @include column(12,12);
-          padding: 0;
-          color: $gray;
-          font-family: "futura-pt", "Futura PT", sans-serif;
+          padding: 0.2em 0 0;
+          color: $cyan;
+          font-weight: 200;
+          letter-spacing: 1px;
+          font-family: "Oswald", sans-serif;
           font-size: 0.9em;
-          text-transform: uppercase;
 
           a {
-            color: $dark-gray;
+            color: $orange;
+
+            &:hover {
+              color: $red;
+            }
           }
         }
       }
@@ -652,8 +702,8 @@ body {
         aside {
           @include column(12,12);
           padding: 1em 0;
-          border-top: 1px dotted $light-gray;
-          border-bottom: 1px dotted $light-gray;
+          border-top: 1px dotted $base01;
+          border-bottom: 1px dotted $base01;
           // margin-top: 0.7em;
           margin-bottom: 0.7em;
 
@@ -666,6 +716,10 @@ body {
           margin-bottom: 0;
         }
 
+        .permalink {
+          font-size: 1.5em;
+        } 
+        
         table {
 
           &.transparent {
@@ -725,7 +779,7 @@ body {
             padding: 0.5em 0 0.7em;
             text-align: center;
             font-style: italic;
-            color: $gray;
+            color: $base01;
             line-height: 1.1em;
           }
         }
@@ -748,7 +802,7 @@ body {
             height: auto;
             margin: 0 auto;
             padding: 0.2em;
-            background-color: white;
+            background-color: $base02;
             border: 1px solid $light-gray;
           }
 
@@ -763,14 +817,13 @@ body {
             }
 
             .name {
-              font-family: "futura-pt", "Futura PT", sans-serif;
+              font-family: "Oswald", sans-serif;
               font-size: 1.3em;
-              text-transform: uppercase;
-              color: $black;
+              color: $base1;
               padding-bottom: 0.3em;
 
               a {
-                color: $dark-gray;
+                color: $base1;
               }
             }
 
@@ -779,8 +832,7 @@ body {
             }
 
             .price {
-              font-family: "futura-pt", "Futura PT", sans-serif;
-              text-transform: uppercase;
+              font-family: "Oswald", sans-serif;
               padding-bottom: 0.5em;
             }
           }
@@ -806,7 +858,7 @@ body {
             padding: 0.7em 0 0.5em;
             text-align: center;
             font-style: italic;
-            color: $gray;
+            color: $base01;
             line-height: 1.1em;
 
             p {
@@ -817,7 +869,7 @@ body {
             }
 
             a {
-              color: $gray;
+              color: $base01;
               text-decoration: underline;
             }
           }
@@ -834,17 +886,17 @@ body {
       @include column(12,12);
       margin-bottom: 1em;
       padding: 0.7em 0 0.5em;
-      border-top: 1px solid $light-gray;
-      border-bottom: 1px solid $light-gray;
+      border-top: 1px dotted $base01;
+      border-bottom: 1px dotted $base01;
 
       .title {
         @include column(4,12);
         clear: both;
         padding: 0;
         margin-bottom: 0.4em;
-        font-family: "futura-pt", "Futura PT", sans-serif;
+        font-family: "Oswald", sans-serif;
         text-transform: uppercase;
-        color: $gray;
+        color: $green;
         font-size: 0.8em;
         line-height: 1.1em;
         font-weight: 300;
@@ -864,13 +916,13 @@ body {
           display: inline;
           width: auto;
           float: right;
-          font-family: "futura-pt", "Futura PT", sans-serif;
+          font-family: "Oswald", sans-serif;
           text-transform: uppercase;
           padding-left: 0.3em;
           margin-left: 0;
 
           a {
-            color: $dark-gray;
+            color: $magenta;
           }
         }
       }
@@ -880,24 +932,29 @@ body {
   		@include column(12,12);
   		padding: 0;
       margin-bottom: 1em;
-      background-image: url('../assets/theme/stripes.svg');
 
       .post {
       	@include column(12,12);
-      	padding: 0 0 0 0.5em;
+      	padding: 0;
       	margin-top: 0em;
       	margin-bottom: 0;
   		  background-image: url('../assets/theme/stripes.svg');
-        border-left: 0.5em solid $light-gray;
+        border-left: 0.5em solid $base01;
 
         &.next {
-          border-left: 0.5em solid $red;
-          background-color: $red;
+          border-left: 0.2em solid $red;
+          
+          .key {
+            color: $red;
+          }
         }
 
         &.prev {
-          border-left: 0.5em solid $blue;
-          background-color: $blue;
+          border-left: 0.2em solid $blue;
+
+          .key {
+            color: $blue;
+          }
         }
 
         a,
@@ -907,7 +964,7 @@ body {
           @include column(12,12);
           padding: 0.8em 1em 0.5em;
           letter-spacing: 1.5px;
-          background-color: $lighter-gray;
+          background-color: $base02;
 
           .title {
             @include column(12,12);
@@ -915,9 +972,8 @@ body {
             margin-bottom: 0;
             font-weight: 500;
             font-size: 0.9em;
-            font-family: "futura-pt", "Futura PT", sans-serif;
-            text-transform: uppercase;
-            color: $dark-gray;
+            font-family: "Oswald", sans-serif;
+            color: $yellow;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -928,17 +984,17 @@ body {
             padding: 0;
             font-size: 0.8em;
             line-height: 1.3em;
-            font-family: "futura-pt", "Futura PT", sans-serif;
+            font-family: "Oswald", sans-serif;
             text-transform: uppercase;
-            color: $gray;
             font-weight: 300;
           }
 
           &:hover {
-            background-color: $gray;
+            background-color: $base01;
+            color: $base03;
 
-            .key {
-              color: $dark-gray;
+            .key, .title  {
+              color: $base03;
             }
           }
         }
@@ -972,20 +1028,24 @@ body {
 
       .post-item {
         @include column(12,12);
-        background-color: $lighter-gray;
+        background-color: $base02;
         margin-left: 0;
-        padding: 1em 1em 0.5em;
+        padding: 0;
         margin-bottom: 1em;
 
         a {
-          color: $black;
+          @include column(12,12);
+          padding: 0.5em 1em; 
+          color: $base00;
+          border-left: 0.2em solid $base01;
+         
+          &:hover {
+            background-color: $base00;
+            border-color: $base0;
 
-          &:hover,
-          &:active,
-          &:visited,
-          &:focus {
-            color: $black;
-            background-color: $gray;
+            h2, h3 {
+              color: $base03;
+            }
           }
         }
 
@@ -1001,7 +1061,7 @@ body {
 
         .post-title {
           font-size: 1.3em;
-          color: $black;
+          color: $yellow;
           margin-bottom: 0.1em;
           white-space: nowrap;
           overflow: hidden;
@@ -1010,7 +1070,7 @@ body {
 
         .post-meta {
           font-size: 1em;
-          color: $black;
+          color: $cyan;
         }
       }
     }
@@ -1024,12 +1084,13 @@ body {
 
       .search {
         @include column(12,12);
-        padding: 0.5em 1em 0.2em;
+        padding: 0.3em 1em 0.3em;
         margin: 0.5em 0 1em;
-        font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
-        background-color: $lighter-gray;
-        color: $black;
-        border: none;
+        font-family: "Oswald", sans-serif;
+        background-color: $base02;
+        text-transform: uppercase;
+        color: $magenta;
+        border: 1px dotted $base00;
         outline: none;
       }
 
@@ -1042,46 +1103,45 @@ body {
           @include column(12,12);
           margin: 0 0 0.5em;
           padding: 0;
-          border-bottom: 1px dotted $black;
 
           a {
-            color: $black;
+            color: $base0;
           }
 
           .item-core {
 
             .post-title {
-              @include column(8,12);
+              @include column(6,12);
               padding: 0;
-              font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
+              font-family: "Oswald", sans-serif;
               font-size: 1em;
-              font-weight: normal;
               font-style: normal;
               position: relative;
-              top: 0.7em;
+              top: 0.5em;
               line-height: 1.5em;
               white-space: nowrap;
               overflow: hidden;
               text-overflow: ellipsis;
-              text-transform: none;
+              text-transform: uppercase;
               background-color: transparent;
               margin-top: 0;
               margin-bottom: 0;
               letter-spacing: 1px;
+              color: $yellow;
 
               .background {
-                background-color: $ecru;
+                background-color: transparent;
                 padding-right: 0.5em;
               }
             }
 
             .post-date {
-              @include column(4,12);
+              @include column(6,12);
               padding: 0;
-              font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
+              font-family: "Oswald", sans-serif;
               font-size: 1em;
-              font-weight: normal;
               font-style: normal;
+              text-transform: uppercase;
               position: relative;
               top: 0.7em;
               float: right;
@@ -1089,9 +1149,10 @@ body {
               background-color: transparent;
               margin-top: 0;
               margin-bottom: 0;
+              color: $cyan;
 
               .background {
-                background-color: $ecru;
+                background-color: transparent;
                 padding-left: 0.5em;
               }
             }
@@ -1114,21 +1175,21 @@ body {
     li {
       @include column(12,12);
       padding: 0;
-      background-color: $lighter-gray;
+      background-color: $base02;
       padding: 0;
       margin: 0 0 0.5em;
-      font-family: "futura-pt", "Futura PT", sans-serif;
-      text-transform: uppercase;
-      border-left: 0.2em solid $gray;
+      font-family: "Oswald", sans-serif;
 
       a {
         @include column(12,12);
         padding: 0.5em 1em;
-        color: $black;
-        border-left: 0.5em solid $light-gray;
-
+        color: $orange;
+        border-left: 0.2em solid $base01;
+        
         &:hover {
-          background-color: $light-gray;
+          background-color: $base0;
+          color: $base03;
+          border-left: 0.2em solid $base00;
         }
       }
     }
@@ -1137,8 +1198,7 @@ body {
   #footer {
     @include column(12);
     padding: 1em 0;
-    font-family: "futura-pt", "Futura PT", sans-serif;
-    text-transform: uppercase;
+    font-family: "Oswald", sans-serif;
     overflow-x: hidden;
 
     .logo {
@@ -1162,29 +1222,31 @@ body {
 
   body #header,
   body #footer {
-
+    background-color: transparent;
+    border: none;
+    
     .logo {
       @include column(6,12);
-      padding: 0;
+      padding: 0.5em 0 0;
       text-align: left;
       left: 0;
-      margin-bottom: 0.6em;
+      margin: 0 0 0.6em;
       font-size: 1.2em;
     }
 
     .navbar {
       @include column(6,12);
       padding: 0;
+      margin: 0;
       text-align: right;
-      font-size: 1em;
+      font-size: 1.2em;
       list-style-type: none;
-      padding-top: 0.1em;
-      margin-bottom: 0.2em;
-      font-family: "futura-pt", "Futura PT", sans-serif;
+      padding: 0.5em 0 0;
+      font-family: "Oswald", sans-serif;
       text-transform: uppercase;
 
       .nav-item {
-        margin-left: 0;
+        margin: 0;
         display: inline;
         width: auto;
         float: none;
@@ -1195,7 +1257,11 @@ body {
         }
 
         a {
-          color: $gray;
+          color: $base0;
+          
+          &:hover {
+            color: $magenta;
+          }
         }
 
         .title {
@@ -1370,8 +1436,7 @@ body {
 					@include pull(-1,10);
 					padding: 0 0 1em 1em;
 					float: right;
-          font-family: "futura-pt", "Futura PT", sans-serif;
-          text-transform: uppercase;
+          font-family: "Oswald", sans-serif;
           text-align: left;
           color: $red;
           font-size: 1.5em;
@@ -1383,7 +1448,7 @@ body {
 
     .post-list .post-item {
       @include column(5.8,12);
-      padding: 1em 1em 0.5em;
+      padding: 0;
 
 
       &:nth-child(2n) {
@@ -1487,8 +1552,7 @@ body {
 					@include pull(-2,8);
 					padding: 0 0 1em 1em;
 					float: right;
-          font-family: "futura-pt", "Futura PT", sans-serif;
-          text-transform: uppercase;
+          font-family: "Oswald", sans-serif;
           text-align: left;
           color: $red;
           font-size: 1.5em;
@@ -1500,7 +1564,7 @@ body {
 
     .post-list .post-item {
       @include column(5.8,12);
-      padding: 1em 1em 0.5em;
+      padding: 0;
 
 
       &:nth-child(2n) {

@@ -45,7 +45,7 @@ layout: default
         {% endif %}
 
         <p class="post-meta">
-          <span class="date">{{ post.date | date: "%B %-d, %Y" }}&nbsp;</span><span class="slashes"><span class="slash-r">/</span><span class="slash-g">/</span><span class="slash-b">/</span></span>{% if post.author %}<span class="author">&nbsp;By <a href="{{ site.url }}/archive?search={{ post.author }}">{{ post.author }}</a></span>{% endif %}
+        <span class="date">{{ post.date | date: "%B %-d, %Y" }}&nbsp;</span>
         </p>
       </div>
 
@@ -54,8 +54,7 @@ layout: default
 
         {% if post.link %}
           <div class="permalink">
-            <a href="{{ site.url }}{{ post.url }}">
-              <span class="slashes"><span class="slash-r">/</span><span class="slash-g">/</span><span class="slash-b">/</span></span>
+            <a href="{{ site.url }}{{ post.url }}">&#x2726;
             </a>
           </div>
         {% endif %}
@@ -85,4 +84,3 @@ layout: default
 </div>
 
 {% include recent.html %}
-{% include meta.html %}

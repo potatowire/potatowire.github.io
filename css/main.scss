@@ -505,54 +505,24 @@ hr:after {
   letter-spacing: 1px;
 
   a {
-    color: $base3;
-
+    
+    h1 {
+      color: $base3;
+      display: none;
+    } 
+      
     &:hover,
     &:active,
     &:visited,
     &:focus {
       color: $base3;
     }
-  }
 
-  .slash-r {
-    font-weight: bold;
-    color: $red;
-    letter-spacing: -0.1em;
-  }
-
-  .slash-g {
-    font-weight: bold;
-    color: $green;
-    letter-spacing: -0.1em;
-  }
-
-  .slash-b {
-    font-weight: bold;
-    color: $blue;
-  }
-}
-
-.slashes {
-  font-weight: normal;
-  font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
-  text-transform: none;
-
-  .slash-r {
-    font-weight: bold;
-    color: $red;
-    letter-spacing: -0.1em;
-  }
-
-  .slash-g {
-    font-weight: bold;
-    color: $green;
-    letter-spacing: -0.1em;
-  }
-
-  .slash-b {
-    font-weight: bold;
-    color: $blue;
+    .icon {
+      width: 12em;
+      height: auto;
+      padding-top: 0.2em;
+    }
   }
 }
 
@@ -1247,6 +1217,10 @@ body {
       left: 0;
       margin: 0 0 0.6em;
       font-size: 1.2em;
+
+      .icon {
+        width: 8em;
+      }
     }
 
     .navbar {
@@ -1254,9 +1228,9 @@ body {
       padding: 0;
       margin: 0;
       text-align: right;
-      font-size: 1.2em;
+      font-size: 1.3em;
       list-style-type: none;
-      padding: 0.5em 0 0;
+      padding: 1em 0 0;
       font-family: "Oswald", sans-serif;
       text-transform: uppercase;
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /books
-title: Books I've Recently Read
 ---
 
 # Books Read in 2016
@@ -97,9 +96,7 @@ title: Books I've Recently Read
 
 # Books Read in 2017
 
-## Nonfiction
-
-## Fiction
+## (roughly chronological)
 
 - [Protect and Defend](http://www.amazon.com/dp/1416505032/?tag=potatowire-20) by Vince Flynn
 - [Where Good Ideas Come From: The Natural History of Innovation](http://www.amazon.com/dp/1594485380/?tag=potatowire-20) by Steven Johnson

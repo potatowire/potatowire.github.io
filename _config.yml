@@ -11,7 +11,7 @@ email: me@potatowire.com
 description: > # this means to ignore newlines until "baseurl:"
  Potatowire's Blog 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://with.the.gra.in" # the base hostname & protocol for your site
+url: "https://with.thegra.in" # the base hostname & protocol for your site
 twitter_username: potatowire
 github_username:  potatowire
 permalink: :title

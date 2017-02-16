@@ -1,6 +1,7 @@
 ---
+layout: page
+permalink: /books
 title: Books I've Recently Read
-permalink: books.html
 ---
 
 # Books Read in 2016

@@ -1,9 +1,10 @@
 ---
+title: "Books I've Recently Read"
 layout: page
 permalink: /books
 ---
 
-# Books Read in 2016
+# 2016
 
 ## Nonfiction
 
@@ -90,9 +91,6 @@ permalink: /books
 - [The Ringworld Engineers](http://www.amazon.com/dp/0345334302/?tag=potatowire-20) by Larry Niven
 - [Black Unicorn (Magic Kingdom of Landover series Book 2)](http://www.amazon.com/dp/B002FSTJOI/?tag=potatowire-20) by Terry Brooks
 - [Wizard at Large (Magic Kingdom of Landover, Book 3)](http://www.amazon.com/dp/0345362276/?tag=potatowire-20) by Terry Brooks
-
-
-## Nonfiction
 
 # Books Read in 2017
 

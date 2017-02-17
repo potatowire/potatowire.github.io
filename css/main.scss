@@ -1211,7 +1211,7 @@ body {
     border: none;
     
     .logo {
-      @include column(6,12);
+      @include column(4,12);
       padding: 0.5em 0 0;
       text-align: left;
       left: 0;
@@ -1224,7 +1224,7 @@ body {
     }
 
     .navbar {
-      @include column(6,12);
+      @include column(8,12);
       padding: 0;
       margin: 0;
       text-align: right;

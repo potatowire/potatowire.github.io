@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "With the grain"
+title: "With the Grain"
 author: [potatowire]
 categories: 
 tags: 

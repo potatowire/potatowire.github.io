@@ -92,7 +92,7 @@ permalink: /books
 - [Black Unicorn (Magic Kingdom of Landover series Book 2)](http://www.amazon.com/dp/B002FSTJOI/?tag=potatowire-20) by Terry Brooks
 - [Wizard at Large (Magic Kingdom of Landover, Book 3)](http://www.amazon.com/dp/0345362276/?tag=potatowire-20) by Terry Brooks
 
-# Books Read in 2017
+# 2017
 
 ## (roughly chronological)
 

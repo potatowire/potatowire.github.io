@@ -15,7 +15,7 @@ url: "https://with.thegra.in" # the base hostname & protocol for your site
 twitter_username: potatowire
 github_username:  potatowire
 permalink: :title
-gems: [jekyll-paginate, jekyll-gist, rouge, jekyll-redirect-from, jekyll-sitemap]
+gems: [jekyll-paginate, jekyll-gist, rouge, jekyll-redirect-from, jekyll-sitemap, jekyll-feed]
 include: ["_pages"]
 
 # Build settings

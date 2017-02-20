@@ -553,7 +553,8 @@ body {
       margin: 0;
     }
 
-    .navbar {
+    .navbar,
+    .navbarfooter {
       display: none;
     }
   }
@@ -1190,7 +1191,8 @@ body {
       font-size: 1.2em;
     }
 
-    .navbar {
+    .navbar,
+    .navbarfooter {
       display: none;
     }
 
@@ -1244,6 +1246,29 @@ body {
         &.icon {
           padding-left: 0.5em;
         }
+
+    .navbarfooter {
+      @include column(8,12);
+      padding: 0;
+      margin: 0;
+      text-align: right;
+      font-size: 1.3em;
+      list-style-type: none;
+      padding: 1em 0 0;
+      font-family: "Oswald", sans-serif;
+      text-transform: uppercase;
+
+      .nav-item {
+        margin: 0;
+        display: inline;
+        width: auto;
+        float: none;
+        padding: 0 0 0 0.5em;
+
+        &.icon {
+          padding-left: 0.5em;
+        }
+
 
         a {
           color: $base0;

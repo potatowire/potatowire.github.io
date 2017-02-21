@@ -112,3 +112,4 @@ permalink: /books
 - [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](http://www.amazon.com/dp/B00GU2RGGI/?tag=potatowire-20) by Austin Kleon
 - [The Last Man: A Novel (A Mitch Rapp Novel Book 11)](http://www.amazon.com/dp/B007HACDLK/?tag=potatowire-20) by Vince Flynn
 - [The Survivor (A Mitch Rapp Novel Book 12)](http://www.amazon.com/dp/B00UDCI7RI/?tag=potatowire-20) by Vince Flynn and Kyle Mills
+- [The Last Lion: Volume 1: Winston Churchill: Visions of Glory, 1874 - 1932](http://www.amazon.com/dp/B0092XHPWC/?tag=potatowire-20) by William Manchester

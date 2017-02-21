@@ -2,10 +2,6 @@
 layout: post
 title: "Why I'm Here"
 author: [potatowire]
-categories: 
-tags: 
-banner: 
-caption: 
 ---
 
 I love to read. I've loved to read for as long as I can remember.   

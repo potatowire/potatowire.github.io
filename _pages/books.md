@@ -99,6 +99,8 @@ permalink: /books
 - [Protect and Defend](http://www.amazon.com/dp/1416505032/?tag=potatowire-20) by Vince Flynn
 - [Where Good Ideas Come From: The Natural History of Innovation](http://www.amazon.com/dp/1594485380/?tag=potatowire-20) by Steven Johnson
 - [Extreme Measures: A Thriller (A Mitch Rapp Novel)](http://www.amazon.com/dp/1416505040/?tag=potatowire-20) by Vince Flynn
+- [The Path to Power: The Years of Lyndon Johnson I](http://www.amazon.com/dp/B002GKGB0U/?tag=potatowire-20) by Robert A. Caro
+- [Means of Ascent: The Years of Lyndon Johnson II](http://www.amazon.com/dp/B005LALFT4/?tag=potatowire-20) by Robert A. Caro
 - [Master Of The Senate: The Years of Lyndon Johnson](http://www.amazon.com/dp/0394720954/?tag=potatowire-20) by Robert A. Caro
 - [The Passage of Power: The Years of Lyndon Johnson, Vol. IV](http://www.amazon.com/dp/0375713255/?tag=potatowire-20) by Robert A. Caro
 - [Mistakes Were Made (but Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts](http://www.amazon.com/dp/0544574788/?tag=potatowire-20) by Carol Tavris

@@ -6,11 +6,11 @@ author: [potatowire]
 
 Yesterday I finished two books: [No Excuses!: The Power of Self-Discipline](http://www.amazon.com/dp/B003P9XCOO/?tag=potatowire-20) by Brian Tracy and [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/dp/B000SEGI8Q/?tag=potatowire-20) by Anne Lamott. I like to read three normal-sized books between the long biographies I've been reading[^1], and these two were a perfect change of pace. I don't plan to reread either book on a [set timeline](https://with.thegra.in/visions-of-glory), but I know I'll  pull both books off the shelf a lot in the future.
 
-## No Excuses! ##
+## *No Excuses!* ##
 
 I decided to read[^2] this when I came across it in [Audible Channels](http://www.audible.com/channels)[^3] self-improvement list. It definitely has the self-help guru tone, but I never found it off-putting. The book centers on self-discipline, and I've read other books that hit these same points in other ways, but I liked Tracy's methodology. I like to have a couple techniques I can reference, depending on the particular rut I'm in, and I think this book has many ideas that will resonate when the time is right. I found it very motivational in general.
 
-## Bird by Bird ##
+## *Bird by Bird* ##
 
 Anne Lamott's book is an irreverent and realistic look at writing, primarily geared towards the fiction writer. While I don't feel like I will ever seriously write fiction myself, the tools she provides are valuable for any creative endeavor. Like *Excuses*, I found this book very motivational. Some other writing books that fit this same bill: [The Artist's Way](http://www.amazon.com/dp/B006H19H3M/?tag=potatowire-20) by Julia Cameron; and [The War of Art](http://www.amazon.com/dp/1936891026/?tag=potatowire-20) and [Turning Pro:](http://www.amazon.com/dp/1936891034/?tag=potatowire-20) by Steven Pressfield.
 

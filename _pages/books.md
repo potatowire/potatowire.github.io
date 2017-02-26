@@ -117,3 +117,4 @@ permalink: /books
 - [The Last Lion: Volume 1: Winston Churchill: Visions of Glory, 1874 - 1932](http://www.amazon.com/dp/B0092XHPWC/?tag=potatowire-20) by William Manchester
 - [No Excuses!: The Power of Self-Discipline](http://www.amazon.com/dp/B003P9XCOO/?tag=potatowire-20) by Brian Tracy
 - [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/dp/B000SEGI8Q/?tag=potatowire-20) by Anne Lamott
+- [Order to Kill: A Novel (A Mitch Rapp Novel Book 13)](http://www.amazon.com/dp/B01CO34K8I/?tag=potatowire-20) by [u'Vince Flynn', u'Kyle Mills']

@@ -4,7 +4,6 @@ title: "By All Outward Appearances"
 author: [potatowire]
 categories: biography
 tags: Churchill
-published: false
 ---
 
 This morning I began [Volume II](https://www.amazon.com/dp/product/B0092XHV4Y/&tag=potatowire-20) of the [Last Lion](https://en.wikipedia.org/wiki/The_Last_Lion:_Winston_Spencer_Churchill) biography of Winston Churchill.[^1] I missed him. One passage jumped out at me in particular, and I see in it a parallel to my life.

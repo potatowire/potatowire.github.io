@@ -117,3 +117,4 @@ permalink: /books
 - [The Last Lion: Volume 1: Winston Churchill: Visions of Glory, 1874 - 1932](http://www.amazon.com/dp/B0092XHPWC/?tag=potatowire-20) by William Manchester
 - [No Excuses!: The Power of Self-Discipline](http://www.amazon.com/dp/B003P9XCOO/?tag=potatowire-20) by Brian Tracy
 - [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/dp/B000SEGI8Q/?tag=potatowire-20) by Anne Lamott
+- [*I'm Your Man: The Life of Leonard Cohen*](http://www.amazon.com/dp/B008LV913M/?tag=potatowire-20) by Sylvie Simmons

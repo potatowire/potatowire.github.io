@@ -6,18 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Mindful Bit
-email: erik@themindfulbit.com
+title: With the Grain 
+email: me@potatowire.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Looking for the intersection of mindfulness, technology, and design. Seeing the world of tech through its impermanent, emergent, and inherently unsatisfying nature. There may not be any good answers, but it’s possible to have enlightening conversations around the questions the world throws at us.
+ Potatowire's Blog 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://akimbokimono.com:4000" # the base hostname & protocol for your site
-twitter_username: themindfulbit
-github_username:  themindfulbit
-permalink: /blog/:title
+url: "https://with.thegra.in" # the base hostname & protocol for your site
+twitter_username: potatowire
+github_username:  potatowire
+permalink: :title
 gems: [jekyll-paginate, jekyll-gist, rouge, jekyll-redirect-from, jekyll-sitemap, jekyll-feed]
 include: ["_pages"]
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+
+kramdown:
+  footnote_backlink: '&#8617;&#65038;'

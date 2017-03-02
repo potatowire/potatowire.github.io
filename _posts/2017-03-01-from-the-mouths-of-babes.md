@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From the Mouth of Babes"
+title: "From the Mouths of Babes"
 author: [potatowire]
 ---
 

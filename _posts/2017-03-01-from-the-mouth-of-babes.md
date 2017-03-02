@@ -2,11 +2,6 @@
 layout: post
 title: "From the Mouth of Babes"
 author: [potatowire]
-categories: 
-tags: 
-banner: 
-caption: 
-published: false
 ---
 
 I had a very helpful conversation with my 2-year-old son this morning. He was watching a surprisingly interesting episode of [*Bob the Builder*](https://www.amazon.com/Bob-Builder-Site-Trains-Treehouses/dp/B005SFZOPI) that I thought had some good learning material. 

@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Poland and Market Losses"
+title: "The Invasion of Poland and Market Losses"
 author: [potatowire]
-categories: 
-tags: 
-banner: 
-caption: 
-published: false
+categories: biography 
+tags: Churchill judgement 
 ---
 
 As the [second volume of *The Last Lion*](https://www.amazon.com/dp/product/B0092XHV4Y/&tag=potatowire-20) winds down, but not before one more abortive attempt at peace.
@@ -19,7 +16,7 @@ As the [second volume of *The Last Lion*](https://www.amazon.com/dp/product/B009
 > 
 > He sat down. No one cheered. Instead, Hugh Dalton heard what he called “a terrific buzz.” Margesson signaled his whips to brace themselves for physical violence, and with reason. Duff Cooper and Amery, Dalton saw, were “red-faced and almost speechless with fury.” Cooper himself had “never felt so moved.” Spears saw the House “oozing hostility.” Two MPs actually vomited. Churchill, for once understating the hostility to Chamberlain merely noted that “the Prime Minister’s temporising statement was ill-received by the House,” but Amery wrote that Parliament “was aghast. For two whole days the wretched Poles had been bombed and massacred,” and here was the prime minister of Great Britain discussing how “Hitler should be invited to tell us whether he felt like relinquishing his prey! And then there were all these sheer irrelevancies about the terms of a hypothetical agreement between Germany and Poland.” Amery wondered whether Chamberlain’s “havering” was “the prelude to another [Munich](https://en.wikipedia.org/wiki/Munich_Agreement).” On that occasion, Parliament had given the prime minister a standing ovation, but “this time any similar announcement would have been met by a universal howl of execration.”
 
-At last, the House of Commons and the a British public must admit war is at hand, and yet Chamberlain could not say so. Beyond a very real hope for peace, I think he was unable to move on. If he admits Germany has forced war by [invading Poland](https://en.wikipedia.org/wiki/Invasion_of_Poland), is that admitting he was wrong in [Munich](https://with.thegra.in/fooling-ourselves)? What about the rest of [Appeasement](https://en.wikipedia.org/wiki/Appeasement)?
+At last, the House of Commons and the British public must admit war is at hand, and yet Chamberlain could not say so. Beyond a very real hope for peace, I think he was unable to move on. If he admits Germany has forced war by [invading Poland](https://en.wikipedia.org/wiki/Invasion_of_Poland), is that admitting he was wrong in [Munich](https://with.thegra.in/fooling-ourselves)? What about the rest of [Appeasement](https://en.wikipedia.org/wiki/Appeasement)?
 
 It might at first seem strange to see a parallel between matters of state and hedge fund trading, but my mind was drawn back to the biggest lessons I took from my reading of [What I Learned Losing a Million Dollars](http://www.amazon.com/dp/0231164688/?tag=potatowire-20).
 

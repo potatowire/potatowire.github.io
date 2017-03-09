@@ -3,17 +3,16 @@ layout: post
 title: "Bad Things"
 author: [potatowire]
 tags: faith, podcasts
-published: false
 ---
 
-I am bothered by the lazy thinking of atheists, agnostics, deists, Christians, Jews, Muslims, and Mormons. In general, I think if you static or comfortable in your belief or unbelief in God, you simply aren't spending enough time thinking about your faith.[^1] 
+I am bothered by lazy thinking, regardless of whether it's coming from an atheist, agnostic, or someone of deep and specific faith. In general, I think if you're static or comfortable in your belief or unbelief in God, you simply aren't spending enough time thinking about your faith.[^1] 
 
-As this blog unfolds, I may unpack a little more about my own faith, which I am unwilling to tie to one specific tradition. One of the hallmarks of my understanding of God, however, is a strong belief in His holiness and sovereignty. As such, the fact of "bad things" happening, to "good people" or  otherwise, is challenging, and I have thought and read a lot on this topic alone. I recently heard an episode of [*Conversations with Tyler*](https://www.mercatus.org/commentary/conversations-tyler)[^2] that gave me a new perspective.
+As this blog unfolds, I may unpack a little more about my own faith, which I am unwilling to tie to one specific tradition. One of the hallmarks of my understanding of God, however, is a strong belief in His holiness and sovereignty. I've long been troubled by the prevalence of “bad things,” whether they happen to “good people” or not. I have thought and read a lot on this topic alone. I recently heard an episode of [*Conversations with Tyler*](https://www.mercatus.org/commentary/conversations-tyler)[^2] that gave me a new perspective.
 
 In this episode,[^3] [Tyler Cowen](https://en.wikipedia.org/wiki/Tyler_Cowen) interviewed [Rabbi David Wolpe](https://en.wikipedia.org/wiki/David_Wolpe), who is described as "one of the most influential Jewish thinkers of our time." I've often found the Jewish perspective compelling, and this exchange is no exception.
 
 > **AUDIENCE MEMBER:**
-> OK, this is a general question. When I went on birthright,[^3] we talked a lot about the idea that everything happens for a reason in the Jewish religion, and so I wanted to know your beliefs and your mindset on when you experience things in life that are really bad, for instance a lot of nice people and good people passing away or just anything bad that happens in life, I guess your belief on that and if you still believe everything happens for a reason.
+> OK, this is a general question. When I went on birthright,[^4] we talked a lot about the idea that everything happens for a reason in the Jewish religion, and so I wanted to know your beliefs and your mindset on when you experience things in life that are really bad, for instance a lot of nice people and good people passing away or just anything bad that happens in life, I guess your belief on that and if you still believe everything happens for a reason.
 >
 > **WOLPE:** 
 > OK, I’m going to try to make this really as quick as possible, but give me some allowance for the fact that I’m making it very quick. First of all, I don’t believe at all that everything happens for a reason. Not at all. I think there’s a lot of randomness in the world. I think the attempt to say everything happens for a reason can lead you to some moral obscenities like, “Oh, this kid in the Sudan who was born with amoebic dysentery and lived for three years and suffered and died, it happened for a reason.” Yeah, the reason is because the world is unfair. That’s the reason. Now, why the world is unfair, I have a theory about.
@@ -31,11 +30,11 @@ In this episode,[^3] [Tyler Cowen](https://en.wikipedia.org/wiki/Tyler_Cowen) in
 > 
 > [applause]
 
-There are many rich veins of thought to mine here. My thoughts have returned to this exchange often, and the whole episode is well worth a listen.
+The whole episode is well worth a listen. There are several rich veins of thought to mine here, and I return to it often.
 
 [^1]: It requires faith to be an atheist, too. Seriously.
 
-[^2]: You really owe it to yourself to listen to the episode with Kareem Abdul-Jabbar [Transcript](https://medium.com/conversations-with-tyler/kareem-abdul-jabbar-conversations-with-tyler-13b6d4719883#.qqc8ypb0o), [SoundCloud](https://soundcloud.com/conversationswithtyler/kareem-abdul-jabbar), [YouTube](https://www.youtube.com/watch?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W&v=lIRr6C62Hzk). Fascinating man.
+[^2]: You really owe it to yourself to listen to the episode with [Kareem Abdul-Jabbar](https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar). Fascinating man. [Transcript](https://medium.com/conversations-with-tyler/kareem-abdul-jabbar-conversations-with-tyler-13b6d4719883#.qqc8ypb0o), [SoundCloud](https://soundcloud.com/conversationswithtyler/kareem-abdul-jabbar), [YouTube](https://www.youtube.com/watch?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W&v=lIRr6C62Hzk)
 
 [^3]: [Transcript](https://medium.com/conversations-with-tyler/rabbi-david-wolpe-leaders-religion-israel-identity-7c159c2ed2d#.hmhcfvix3), [SoundCloud](https://soundcloud.com/conversationswithtyler/rabbi-david-wolpe-on-leadership-religion), [YouTube](https://www.youtube.com/watch?v=DH0VqlPnzpE)
 

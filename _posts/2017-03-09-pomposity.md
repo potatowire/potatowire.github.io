@@ -4,7 +4,6 @@ title: "Pomposity"
 author: [potatowire]
 categories: biography 
 tags: Churchill
-published: false
 ---
 
 One of the joys in reading [The Last Lion](https://with.thegra.in/archive?search=Churchill) is the wry humor that emerges, often out of nowhere. Describing states of morale amongst the various armies, Manchester describes the comportment of the British soldier wonderfully.

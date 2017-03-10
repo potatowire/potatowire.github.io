@@ -119,3 +119,5 @@ permalink: /books
 - [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/dp/B000SEGI8Q/?tag=potatowire-20) by Anne Lamott
 - [Order to Kill: A Novel (A Mitch Rapp Novel Book 13)](http://www.amazon.com/dp/B01CO34K8I/?tag=potatowire-20) by [u'Vince Flynn', u'Kyle Mills']
 - [*I'm Your Man: The Life of Leonard Cohen*](http://www.amazon.com/dp/B008LV913M/?tag=potatowire-20) by Sylvie Simmons
+- [*The Girl in the Plain Brown Wrapper: A Travis McGee Novel*](http://www.amazon.com/dp/B009FKXUNK/?tag=potatowire-20) by John D. MacDonald
+- [*The Last Lion: Volume 2: Winston Spencer Churchill: Alone, 1932-1940*](http://www.amazon.com/dp/B0092XHV4Y/?tag=potatowire-20) by William Manchester

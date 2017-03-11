@@ -11,7 +11,7 @@ One of the most interesting things for me when reading a biography is when the i
 
 This reluctance to change one's mind is not all bad of course. Were Churchill less stubborn and sure he was right, how else could he have held out against Appeasement, which was done mostly alone in the political wilderness? The key is that he was sure he was right, and he was *so often* right. What about when he was wrong?
 
-After WWI, the uniformed personnel of the Admiralty told their civilian superiors that surface ships had solved the [U-boat]() problem. Beyond tactical changes, they had a secret weapon.
+After WWI, the uniformed personnel of the Admiralty told their civilian superiors that surface ships had solved the [U-boat](https://en.wikipedia.org/wiki/U-boat) problem. Beyond tactical changes, they had a secret weapon.
 
 > This was the asdic, “the name,” Churchill wrote, for “the system of groping for submarines below the surface by means of sound waves through the water which echoed back from any steel structure they met. From this echo the position of the submarine could be fixed with some accuracy.” It is a marvellous system and achievement.” It wasn’t, not then. Later versions, which Americans came to know as sonar, fulfilled the promise of the primitive device Churchill saw and would prove valuable antisub weapons, but during Churchill’s tenure as first lord the asdic was almost worthless.[^1]
 

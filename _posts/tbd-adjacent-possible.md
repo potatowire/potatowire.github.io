@@ -8,6 +8,11 @@ banner:
 caption: 
 published: false
 ---
+
+I make an effort to maximize the number of high-quality inputs to my mind, but I don't make a particular effort to plan the inputs. Instead, I select from a pool of podcasts or book lists as the mood strikes me. In general, the only thing I try to really minimize is time watching television, movies, or video games.[^1] I previously tried to build a deliberate course of study, but then I read [Where Good Ideas Come From]() by {}.
+
+
+
 Sometime in the late 1870s, a Parisian obstetrician named Stephane Tarnier took a day off from his work at Maternité de Paris, the lying-in hospital for the city’s poor women, and paid a visit to the nearby Paris Zoo. Wandering past the elephants and reptiles and classical gardens of the zoo’s home inside the Jardin des Plantes, Tarnier stumbled across an exhibit of chicken incubators. Seeing the hatchlings totter about in the incubator’s warm enclosure triggered an association in his head, and before long he had hired Odile Martin, the zoo’s poultry raiser, to construct a device that would perform a similar function for human newborns
 
 http://a.co/7qXMdrL
@@ -41,3 +46,5 @@ Formaldehyde is a first-order combination: you can create it directly from the m
 The scientist Stuart Kauffman has a suggestive name for the set of all those first-order combinations: “the adjacent possible.” The phrase captures both the limits and the creative potential of change and innovation. In the case of prebiotic chemistry, the adjacent possible defines all those molecular reactions that were directly achievable in the primordial soup. Sunflowers and mosquitoes and brains exist outside that circle of possibility. The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things, a map of all the ways in which the present can reinvent itself. Yet is it not an infinite space, or a totally open playing field. The number of potential first-order reactions is vast, but it is a finite number, and it excludes most of the forms that now populate the biosphere. What the adjacent possible tells us is that at any moment the world is capable of extraordinary change, but only certain changes can happen.
 
 http://a.co/hTi6SoH
+
+[^1]: This is by no means a judgment against any of these things, it is only the way I prioritize my time.

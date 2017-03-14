@@ -121,3 +121,7 @@ permalink: /books
 - [*I'm Your Man: The Life of Leonard Cohen*](http://www.amazon.com/dp/B008LV913M/?tag=potatowire-20) by Sylvie Simmons
 - [*The Girl in the Plain Brown Wrapper: A Travis McGee Novel*](http://www.amazon.com/dp/B009FKXUNK/?tag=potatowire-20) by John D. MacDonald
 - [*The Last Lion: Volume 2: Winston Spencer Churchill: Alone, 1932-1940*](http://www.amazon.com/dp/B0092XHV4Y/?tag=potatowire-20) by William Manchester
+- [*As A Man Thinketh*](http://www.amazon.com/dp/B01N1ZF3Y1/?tag=potatowire-20) by James Allen
+- [*Start with Why: How Great Leaders Inspire Everyone to Take Action*](https://www.amazon.com/dp/B002Q6XUE4/?tag=potatowire-20) by Simon Sinek
+- [*The New One Minute Manager*](https://www.amazon.com/dp/B00MMG19OG/?tag=potatowire-20) by [u'Ken Blanchard', u'Spencer, M.D. Johnson']
+- [*Dress Her in Indigo: A Travis McGee Novel*](http://www.amazon.com/dp/B008WOO7FK/?tag=potatowire-20) by John D. MacDonald

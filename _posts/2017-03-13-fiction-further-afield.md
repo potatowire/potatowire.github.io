@@ -4,7 +4,6 @@ title: "Fiction Further Afield"
 author: [potatowire]
 categories: reading
 tags: fiction, Tyler Cowen
-published: false
 ---
 
 I'm not lacking for things to read, but this weekend, my aperture was opened still wider.

@@ -58,4 +58,4 @@ In the extension of this idea to my own life, adding inputs, even if they are se
 
 [^9]: [Kindle link](http://a.co/hTi6SoH)
 
-[^10]: For extra credit, [listen to this](http://www.intelligencesquared.com/events/tim-harford-on-the-importance-of-being-messy/) episode of the Inteligence^2 podcast.
+[^10]: For extra credit, [listen to this](http://www.intelligencesquared.com/events/tim-harford-on-the-importance-of-being-messy/) episode of the Inteligence² podcast.

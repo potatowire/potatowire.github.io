@@ -50,7 +50,7 @@ In the extension of this idea to my own life, adding inputs, even if they are se
 
 [^5]: [Kindle link](http://a.co/48wbl2E)
 
-[^6]: An oganization Prestero formed.
+[^6]: An organization Prestero formed.
 
 [^7]: [Kindle link](http://a.co/1BMfxlt)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Idea Diffusion" 
 author: [potatowire]
 categories: 
 tags: 

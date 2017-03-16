@@ -2,7 +2,6 @@
 layout: post
 title: "Idea Diffusion" 
 author: [potatowire]
-published: false
 ---
 
 In [*Guns, Germs, and Steel*](https://www.amazon.com/dp/B000VDUWMC/?tag=potatowire-20), [Jared Diamond](https://en.wikipedia.org/wiki/Jared_Diamond) details the case for unequal development of societies for other-than-biological reasons. Beyond the big three factors the title implies, he details many other characteristics of an advancing society. I found the discussion of written language particularly interesting.
@@ -17,7 +16,7 @@ When seeking to define categories for the transfer of technology, there are thre
 >
 > As one source of the signs themselves, Sequoyah practiced copying the letters from an English spelling book given to him by a schoolteacher. About two dozen of his Cherokee syllabic signs were taken directly from those letters, though of course with completely changed meanings, since Sequoyah did not know the English meanings...Sequoyah’s syllabary is widely admired by professional linguists for its good fit to Cherokee sounds, and for the ease with which it can be learned. Within a short time, the Cherokees achieved almost 100 percent literacy in the syllabary, bought a printing press, had Sequoyah’s signs cast as type, and began printing books and newspapers.[^5]
 
-From modern perspective, it's tempting to believe ancient societies were filled with credulous dullards. We are all starting at a higher baseline, and Sequoyah's accomplishment was amazing, in this generation or his own. It's foolish to assume we have an intellectual superiority now. We are starting out with a lot of first-order combinations already made. Many more innovations are in our [adjacent possible](https://with.thegra.in/adjacent-possible).
+From a modern perspective, it's tempting to believe ancient societies were filled with credulous dullards, but Sequoyah's accomplishment was amazing, in this generation or his own. It's foolish to assume we have an intellectual superiority now. We start out with so many first-order combinations already made, putting a lot of innovations in our [adjacent possible](https://with.thegra.in/adjacent-possible).
 
 [^1]: A syllabary is a written system represents a syllable with a written sign. The other two major methods use a sign to capture a whole word or a single basic sound. The English alphabet is an example of the latter, and it is the most common system worldwide. [Kindle link](http://a.co/bhiCzbg)
 

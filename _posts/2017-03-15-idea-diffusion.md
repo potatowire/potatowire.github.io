@@ -2,13 +2,10 @@
 layout: post
 title: "Idea Diffusion" 
 author: [potatowire]
-categories: 
-tags: 
-banner: 
-caption: 
 published: false
 ---
-In - [*Guns, Germs, and Steel*](https://www.amazon.com/dp/B000VDUWMC/?tag=potatowire-20), [Jared Diamond](https://en.wikipedia.org/wiki/Jared_Diamond) details the case for unequal development of societies for other-than-biological reasons. Beyond the big three factors the title implies, he details many other characteristics of an advancing society. I found the discussion of written language particularly interesting.
+
+In [*Guns, Germs, and Steel*](https://www.amazon.com/dp/B000VDUWMC/?tag=potatowire-20), [Jared Diamond](https://en.wikipedia.org/wiki/Jared_Diamond) details the case for unequal development of societies for other-than-biological reasons. Beyond the big three factors the title implies, he details many other characteristics of an advancing society. I found the discussion of written language particularly interesting.
 
 When seeking to define categories for the transfer of technology, there are three that typically emerge: blueprint copying, modification, and idea diffusion. Blueprint copying is as simple as bringing technology over in its complete form, as the name implies, and modification would be by beginning with some extant design, and modifiying it as desired or required. Idea diffusion is when a technology is observed, but recreating it is done from scratch. When the technology in question is written language, there's no better illustration than the Cherokee's development of script.
 

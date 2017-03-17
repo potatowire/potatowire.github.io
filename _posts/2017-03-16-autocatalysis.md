@@ -1,11 +1,11 @@
 ---
 layout: post
-title: “Autocatalysis”
+title: Autocatalysis
 author: [potatowire]
-published: false
 ---
 
-I think a good corollary to the idea of the[adjacent possible][1]is that of *autocatalysis*. [Continuing][2] the discussion of a technology's diffusion, [Jared Diamond][3] [explains][4],
+I think a good corollary to the idea of the [adjacent possible][1] is that of *autocatalysis*. [Continuing][2] the discussion of a technology's diffusion, [Jared Diamond][3] [explains][4],
+
 > Because technology begets more technology, the importance of an invention’s diffusion potentially exceeds the importance of the original invention. Technology’s history exemplifies what is termed an autocatalytic process: that is, one that speeds up at a rate that increases with time, because the process catalyzes[^1] itself. The explosion of technology since the Industrial Revolution impresses us today, but the medieval explosion was equally impressive compared with that of the Bronze Age, which in turn dwarfed that of the Upper Paleolithic.[^2]
 > 
 > One reason why technology tends to catalyze itself is that advances depend upon previous mastery of simpler problems. For example, Stone Age farmers did not proceed directly to extracting and working iron, which requires high-temperature furnaces. Instead, iron ore metallurgy grew out of thousands of years of human experience with natural outcrops of pure metals soft enough to be hammered into shape without heat (copper and gold). It also grew out of thousands of years of development of simple furnaces to make pottery, and then to extract copper ores and work copper alloys (bronzes) that do not require as high temperatures as does iron...[^3]

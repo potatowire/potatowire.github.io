@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Divine Summons"
-author: [potatowire]()
+author: [potatowire]
 categories: 
 tags: 
 banner: 

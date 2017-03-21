@@ -21,19 +21,24 @@ The more I read, the more I distrust information hot off the presses or provided
 > 
 > One problem with deception is that the deceivers deceive themselves. That is what happened to the Luftwaffe’s high command. “The Germans,” as Churchill told Parliament later in the war, had “become victims of their own lies.” The Germans had lost control of the battle’s vital statistics, which, by the beginning of August, had become simply incredible. At one point William L. Shirer observed dryly: “German figures of British losses have been rising all evening. First (they) announced 73 British planes shot down against 14 German; then 79 to 14; finally at midnight 89 to 17. Actually, when I counted up the German figures as given out from time to time during the afternoon and evening, they totaled 111 for British losses. The Luftwaffe is lying so fast it isn’t consistent even by its own account.”[^5]
 
-All of human nature fights accurate reporting during emotional times. Decision making [in the moment][3] is fraught with challenges, and we are not particularly good at [looking backwards][4] either. I guess it's a good thing truth is negotiable these days. 
+All of human nature fights accurate reporting during emotional times. Decision making [in the moment][8] is fraught with challenges, and we are not particularly good at [looking backwards][9] either. I guess it's a good thing truth is negotiable these days. 
 
 [^1]:	\#10 Downing Street, the Prime Minister's residence and primary workplace. Churchill would later, reluctantly, move his base of operations to a shelter [eighty feet below Piccadilly][1], which he called "The Burrow."
 
-[^2]:	http://a.co/04669SZ
+[^2]:	Manchester, William, and Paul Reid. [*The Last Lion Winston Spencer Churchill, Defender of the Realm 1940-1965*][3]. New York, NY: Little, Brown & Co, 2012. [Kindle link][4]
 
-[^3]:	http://a.co/3pzl7uZ
+[^3]:	Manchester, [Kindle Link][5].
 
-[^4]:	http://a.co/cDzsH6l
+[^4]:	Manchester, [Kindle link][6].
 
-[^5]:	http://a.co/itQe8Rb
+[^5]:	Manchester, [Kindle link][7].
 
 [1]:	http://a.co/4QOctH6
 [2]:	https://en.wikipedia.org/wiki/Jock_Colville
-[3]:	https://with.thegra.in/changeable
-[4]:	https://with.thegra.in/historical-accuracy
+[3]:	https://www.amazon.com/dp/B0076DEPUK/?tag=potatowire-20
+[4]:	http://a.co/04669SZ
+[5]:	http://a.co/3pzl7uZ
+[6]:	http://a.co/cDzsH6l
+[7]:	http://a.co/itQe8Rb
+[8]:	https://with.thegra.in/changeable
+[9]:	https://with.thegra.in/historical-accuracy

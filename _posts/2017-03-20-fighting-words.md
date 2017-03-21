@@ -4,12 +4,11 @@ title: "Fighting Words"
 author: [potatowire]
 categories: biography quotes 
 tags: Churchill
-published: false
 ---
 
 > "Now, the hour had come for him to mobilize the English language and send it into battle."[^1]
 
-\<cite\>[Edward R. Murrow][3]\</cite\>
+<cite>[Edward R. Murrow][3]</cite>
 
 In this time of, shall we say, "reduced political eloquence," the effect of Churchill's speeches is remarkable. His rhetoric truly did mobilize the English[^2] people for war.
 

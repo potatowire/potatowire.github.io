@@ -25,12 +25,12 @@ Much of the trouble with the various cognitive biases is that knowing they exist
 
 Makes me want to stick to fiction.
 
-[^1]: Lewis, Michael. The undoing project: a friendship that changed our minds. New York: W.W. Norton & Company, 2017. [Amazon link](http://a.co/9EjPoct).
+[^1]: Lewis, Michael. [*The Undoing Project: A Friendship That Changed Our Minds*](https://www.amazon.com/dp/B01GI6S7EK/?tag=potatowire-20). New York: W.W. Norton & Company, 2017. [Kindle link](http://a.co/9EjPoct).
 
-[^2]: Lewis, [Amazon link](http://a.co/66UTtEJ).
+[^2]: Lewis, [Kindle link](http://a.co/66UTtEJ).
 
-[^3]: Lewis, [Amazon link](http://a.co/4iowazW).
+[^3]: Lewis, [Kindle link](http://a.co/4iowazW).
 
-[^4]: Lewis, [Amazon link](http://a.co/5afSywF).
+[^4]: Lewis, [Kindle link](http://a.co/5afSywF).
 
-[^5]: Lewis, [Amazon link](http://a.co/1Cuz1sy).
+[^5]: Lewis, [Kindle link](http://a.co/1Cuz1sy).

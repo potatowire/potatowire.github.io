@@ -125,3 +125,6 @@ permalink: /books
 - [*Start with Why: How Great Leaders Inspire Everyone to Take Action*](https://www.amazon.com/dp/B002Q6XUE4/?tag=potatowire-20) by Simon Sinek
 - [*The New One Minute Manager*](https://www.amazon.com/dp/B00MMG19OG/?tag=potatowire-20) by Ken Blanchard, Spencer, M.D. Johnson
 - [*Dress Her in Indigo: A Travis McGee Novel*](https://www.amazon.com/dp/B008WOO7FK/?tag=potatowire-20) by John D. MacDonald
+- [*The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick,  and Will  (Eventually) Feel Better*](https://www.amazon.com/dp/B004H0M8QS/?tag=potatowire-20) by Tyler Cowen
+- [*A Darker Shade of Magic: A Novel (Shades of Magic)*](https://www.amazon.com/dp/B00ME0TBFE/?tag=potatowire-20) by V. E. Schwab
+- [*Guns, Germs, and Steel: The Fates of Human Societies*](https://www.amazon.com/dp/B000VDUWMC/?tag=potatowire-20) by Jared Diamond

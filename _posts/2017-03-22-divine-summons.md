@@ -4,7 +4,6 @@ title: "A Divine Summons"
 author: [potatowire]
 categories: biography 
 tags: Churchill quote 
-published: false
 ---
 
 During [The Blitz][2], all of London saw destruction wrought by [Göring][3]'s bombers. No one felt safe and no one was immune.

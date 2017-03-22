@@ -4,7 +4,6 @@ title: "Accidentally Lying"
 author: [potatowire]
 categories: biography
 tags: Churchill judgment
-published: false
 ---
 
 In July of 1940, the world's first real air battle took place in the skies above the English Channel.

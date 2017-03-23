@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Appropriated Messages"
+title: "Small Victories"
 author: [potatowire]
 categories: 
 tags: 

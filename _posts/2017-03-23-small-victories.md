@@ -6,7 +6,6 @@ categories:
 tags: 
 banner: 
 caption: 
-published: false
 ---
 
 I think it's hard to understand now just how tenuous Britain's hold on survival was before [Lend-Lease][1] was begun in earnest.

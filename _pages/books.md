@@ -129,3 +129,4 @@ permalink: /books
 - [*A Darker Shade of Magic: A Novel (Shades of Magic)*](https://www.amazon.com/dp/B00ME0TBFE/?tag=potatowire-20) by V. E. Schwab
 - [*Guns, Germs, and Steel: The Fates of Human Societies*](https://www.amazon.com/dp/B000VDUWMC/?tag=potatowire-20) by Jared Diamond
 - [*Average Is Over: Powering America Beyond the Age of the Great Stagnation*](https://www.amazon.com/dp/B00C1N5WOI/?tag=potatowire-20) by Tyler Cowen
+- [*The Complacent Class: The Self-Defeating Quest for the American Dream*](https://www.amazon.com/dp/B01JGMCCCQ/?tag=potatowire-20) by Tyler Cowen

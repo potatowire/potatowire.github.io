@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Books for Upcoming Study"
 author: \[potatowire]
 categories: 

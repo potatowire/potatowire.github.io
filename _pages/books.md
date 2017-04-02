@@ -130,3 +130,7 @@ permalink: /books
 - [*Guns, Germs, and Steel: The Fates of Human Societies*](https://www.amazon.com/dp/B000VDUWMC/?tag=potatowire-20) by Jared Diamond
 - [*Average Is Over: Powering America Beyond the Age of the Great Stagnation*](https://www.amazon.com/dp/B00C1N5WOI/?tag=potatowire-20) by Tyler Cowen
 - [*The Complacent Class: The Self-Defeating Quest for the American Dream*](https://www.amazon.com/dp/B01JGMCCCQ/?tag=potatowire-20) by Tyler Cowen
+- [*Trust Me, I'm Lying: Confessions of a Media Manipulator*](https://www.amazon.com/dp/B0074VTHH0/?tag=potatowire-20) by Ryan Holiday
+- [*Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising*](https://www.amazon.com/dp/B00INIXL3O/?tag=potatowire-20) by Ryan Holiday
+- [*Hillbilly Elegy: A Memoir of a Family and Culture in Crisis*](https://www.amazon.com/dp/B0166ISAS8/?tag=potatowire-20) by J. D. Vance
+- [*A Curious Mind: The Secret to a Bigger Life*](https://www.amazon.com/dp/B00LJXK23C/?tag=potatowire-20) by Brian Grazer and Charles Fishman

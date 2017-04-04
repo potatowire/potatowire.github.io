@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Judgement vs Decision Making "
+title: "Judgement vs. Decision Making "
 author: [potatowire]
 categories: 
 tags: 
 banner: 
 caption: 
-published: false
 ---
 
 As I mentioned [yesterday][1], I am going to spend some time on judgment and decision making. Besides determining a destination,[^1] it is important to note that there is a difference between these two terms.

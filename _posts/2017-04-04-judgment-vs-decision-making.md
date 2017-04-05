@@ -18,7 +18,7 @@ There are both internal and external challenges inherent in assigning odds and i
 
 [^2]:	[Collateralized debt obligation][4]; most Lewis analogies are either to finance or to sports.
 
-[^3]:	Lewis, Michael. [*The Undoing Project: A Friendship That Changed Our Minds*]()(https://www.amazon.com/dp/B01GI6S7EK/?tag=potatowire-20). New York: W.W. Norton & Company, 2017. [Kindle link]()
+[^3]:	Lewis, Michael. [*The Undoing Project: A Friendship That Changed Our Minds*](https://www.amazon.com/dp/B01GI6S7EK/?tag=potatowire-20). New York: W.W. Norton & Company, 2017. [Kindle link]()
 
 [1]:	https://with.thegra.in/somewhere
 [2]:	https://with.thegra.in/somewhere

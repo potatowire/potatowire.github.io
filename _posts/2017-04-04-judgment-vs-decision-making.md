@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Judgement vs. Decision Making "
+title: "Judgment vs. Decision Making "
 author: [potatowire]
 categories: 
 tags: 

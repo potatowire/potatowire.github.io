@@ -6,7 +6,6 @@ categories:
 tags: 
 banner: 
 caption: 
-published: false
 ---
 
 [Yesterday][1], we distinguished between judgment and decision making. Recalling that judgment is assigning odds prior to making a decision, I stated that in this process we face internal and external challenges. Today I want to focus on the internal.
@@ -36,17 +35,17 @@ Are we the bad guy in our own life story? Certainly not, and when reality doesn'
 This is a rich area for study, but I think this is a good overview of the internal challenges we face while seeking to improve our judgment. Tomorrow I'll take a look at the external challenges we face.
 
 
-[^1]:	Kahneman, Daniel. [*Thinking, Fast and Slow*][3]. New York, NY: Farrar, Straus and Giroux, 2013. [Kindle link][4]
+[^1]:	Kahneman, Daniel. [*Thinking, Fast and Slow*][3]. New York, NY: Farrar, Straus and Giroux, 2013. [Kindle link][4].
 
-[^2]:	[Kindle link][6]
+[^2]:	Kahneman, [Kindle link][6].
 
-[^3]:	Tavris, Carol, and Elliot Aronson. [*Mistakes Were Made (But Not by Me) Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts*](https://www.amazon.com/dp/0544574788/?tag=potatowire-20].  [Kindle link][8]
+[^3]:	Tavris, Carol, and Elliot Aronson. [*Mistakes Were Made (But Not by Me) Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts*](https://www.amazon.com/dp/0544574788/?tag=potatowire-20). Orlando, FL: Harcourt, 2007.  [Kindle link][8]
 
-[^4]:	[Kindle link][9]
+[^4]:	Tavris, [Kindle link][9].
 
-[^5]:	[Kindle link][10]
+[^5]:	Tavris, [Kindle link][10].
 
-[^6]:	[Kindle link][11]
+[^6]:	Tavris, [Kindle link][11].
 
 [1]:	https://with.thegra.in/judgment-vs-decision-making
 [2]:	https://youarenotsosmart.com/

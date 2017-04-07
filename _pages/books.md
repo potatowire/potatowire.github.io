@@ -104,6 +104,7 @@ permalink: /books
 - [*Master Of The Senate: The Years of Lyndon Johnson*](https://www.amazon.com/dp/0394720954/?tag=potatowire-20) by Robert A. Caro
 - [*The Passage of Power: The Years of Lyndon Johnson, Vol. IV*](https://www.amazon.com/dp/0375713255/?tag=potatowire-20) by Robert A. Caro
 - [*Mistakes Were Made (but Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts*](https://www.amazon.com/dp/0544574788/?tag=potatowire-20) by Carol Tavris
+- [*Influence: The Psychology of Persuasion (Collins Business Essentials)*](https://www.amazon.com/dp/B002BD2UUC/?tag=potatowire-20) by Robert B. Cialdini PhD
 - [*Man's Search for Meaning*](https://www.amazon.com/dp/080701429X/?tag=potatowire-20) by Viktor E. Frankl
 - [*Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers*](https://www.amazon.com/dp/B01HSMRWNU/?tag=potatowire-20) by Timothy Ferriss
 - [*Pursuit of Honor: A Novel (A Mitch Rapp Novel Book 10)*](https://www.amazon.com/dp/B002PMVQBI/?tag=potatowire-20) by Vince Flynn

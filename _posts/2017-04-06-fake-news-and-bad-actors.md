@@ -6,7 +6,6 @@ categories:
 tags: 
 banner: 
 caption: 
-published: false
 ---
 
 [Having already discussed][1] some internal challenges facing our judgment and decision making processes, and I'll focus today on the external.
@@ -27,7 +26,7 @@ Churchill pinned the German losses at the time as being five for every one Briti
 
 Each side could only be sure how many fighters went out and how many came back, but the RAF accepted claims of killed German fighters without question, and the Luftwaffe reports were made even less accurate by trying to preserve Reich morale.[^5] Human nature and incomplete reporting will almost always lead to inaccurate reporting.
 
-Surely these days modern technology and dramatically improved speeds of communication means we can trust what we read, right? I don't think so. The current economics of online publishing don't really support this assertion, and this effect ripples outward.  As [Ryan Holiday][11] puts it,
+Surely, modern technology and dramatically improved speeds of communication means we can trust what we read these days, right? I don't think so. The current economics of online publishing don't really support this assertion, and this effect ripples outward.  As [Ryan Holiday][11] puts it,
 
 > Blogs are assailed on all sides, by the crushing economics of their business, dishonest sources, inhuman deadlines, pageview quotas, inaccurate information, greedy publishers, poor training, the demands of the audience, and so much more. These incentives are real, whether you’re the Huffington Post or some tiny blog. Taken individually, the resulting output is obvious: bad stories, incomplete stories, wrong stories, unimportant stories.[^6]
 > 

@@ -135,3 +135,5 @@ permalink: /books
 - [*Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising*](https://www.amazon.com/dp/B00INIXL3O/?tag=potatowire-20) by Ryan Holiday
 - [*Hillbilly Elegy: A Memoir of a Family and Culture in Crisis*](https://www.amazon.com/dp/B0166ISAS8/?tag=potatowire-20) by J. D. Vance
 - [*A Curious Mind: The Secret to a Bigger Life*](https://www.amazon.com/dp/B00LJXK23C/?tag=potatowire-20) by Brian Grazer and Charles Fishman
+- [*The Western Canon*](https://www.amazon.com/dp/B00KK6DGMI/?tag=potatowire-20) by Harold Bloom
+- [*Get Smart!: How to Think and Act Like the Most Successful and Highest-Paid People in Every Field*](https://www.amazon.com/dp/B00YBA7OKY/?tag=potatowire-20) by Brian Tracy

@@ -6,12 +6,11 @@ categories:
 tags: 
 banner: 
 caption: 
-published: false
 ---
 
 “Success is the ability to go from failure to failure without losing your enthusiasm”
 
-<cite>Winston Churchill</cite>
+<cite>--Winston Churchill</cite>
 
 This week we've discussed the background of judgment and decision making. We set out by [distinguishing between][1] these terms and looking at some [internal][2] and [external][3] factors that affect us. So let's figure out where to go next.
 

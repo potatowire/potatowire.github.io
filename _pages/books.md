@@ -137,3 +137,5 @@ permalink: /books
 - [*A Curious Mind: The Secret to a Bigger Life*](https://www.amazon.com/dp/B00LJXK23C/?tag=potatowire-20) by Brian Grazer and Charles Fishman
 - [*The Western Canon*](https://www.amazon.com/dp/B00KK6DGMI/?tag=potatowire-20) by Harold Bloom
 - [*Get Smart!: How to Think and Act Like the Most Successful and Highest-Paid People in Every Field*](https://www.amazon.com/dp/B00YBA7OKY/?tag=potatowire-20) by Brian Tracy
+- [*Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions*](https://www.amazon.com/dp/B002C949KE/?tag=potatowire-20) by Dan Ariely
+- [*Nudge: Improving Decisions About Health, Wealth, and Happiness*](https://www.amazon.com/dp/B00A5DCALY/?tag=potatowire-20) by [u'Richard H. Thaler', u'Cass R. Sunstein']

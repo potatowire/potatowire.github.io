@@ -139,3 +139,7 @@ permalink: /books
 - [*Get Smart!: How to Think and Act Like the Most Successful and Highest-Paid People in Every Field*](https://www.amazon.com/dp/B00YBA7OKY/?tag=potatowire-20) by Brian Tracy
 - [*Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions*](https://www.amazon.com/dp/B002C949KE/?tag=potatowire-20) by Dan Ariely
 - [*Nudge: Improving Decisions About Health, Wealth, and Happiness*](https://www.amazon.com/dp/B00A5DCALY/?tag=potatowire-20) by [u'Richard H. Thaler', u'Cass R. Sunstein']
+- [*The Long Lavender Look: A Travis McGee Novel*](https://www.amazon.com/dp/B008WOUMK4/?tag=potatowire-20) by John D. MacDonald
+- [*The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965*](https://www.amazon.com/dp/B0076DEPUK/?tag=potatowire-20) by [u'William Manchester', u'Paul Reid']
+- [*Choose Yourself!*](https://www.amazon.com/dp/B00CO8D3G4/?tag=potatowire-20) by James Altucher
+- [*Decisive: How to Make Better Choices in Life and Work*](https://www.amazon.com/dp/B009JU6UPG/?tag=potatowire-20) by [u'Chip Heath', u'Dan Heath']

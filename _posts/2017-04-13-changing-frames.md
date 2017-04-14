@@ -6,12 +6,11 @@ categories: series
 tags: jdm 
 banner: 
 caption: 
-published: false
 ---
 
-I've spent some time on decision making tools in the last couple days, but but what about the one-off decisions that continually crop up in our lives? As I [discussed][1] [previously][2], we can't reliably trust our gut or just decide on the fly. Instead, we need a more deliberate process akin to the [checklist][3] and [playlist][4].
+I've spent some time on decision making tools in the last couple days, but what about the one-off decisions that continually crop up in our lives? As I [discussed][1] [previously][2], we can't reliably trust our gut or just decide on the fly. Instead, we need a more deliberate process akin to the [checklist][3] and [playlist][4].
 
-In these leftover cases, I like to make my judgment using deliberate frames of mind. These _frames_ are designed to move thoughts in a particular direction and away from instinctive cognitive traps. I could spend may more weeks just on these frames, but today I want to focus on two of my favorites.[^1]
+In these leftover cases, I like to make deliberate changes to my frame of mind. These alternate _frames_ are designed to move thoughts in a particular direction and away from cognitive traps. I could spend many more weeks just on frames, but today I want to focus on two of my favorites.[^1]
 
 In his book [*Get Smart!*][5], Brian Tracy describes a variation on the scientific method.
 
@@ -23,19 +22,19 @@ In his book [*Get Smart!*][5], Brian Tracy describes a variation on the scientif
 > 
 > If you cannot prove the reverse or negative hypothesis of your idea, you can then conclude that your hypothesis is correct.[^5]
 
-I call this *flipping the script*, because we, as the hero of the story, devote all our attention to destroying all progress towards the goal. This little mental exercise helps direct our mind towards other possibilities we haven't considered.
+I call this *flipping the script*, because we, as the hero of the story, devote our attention to destroying all progress towards the ultimate goal. This little mental exercise helps us avoid the trap of blindly believing our own sales pitch.
 
-My other favorite frame also has a storytelling analogy, but in this case we pull ourselves out of the story and try to imagine what someone else would do in our shoes. Chip and Dan Heath provide a good illustration of this frame in their book [*Decisive*][12].
+My other favorite frame also has a storytelling bent, but in this case we pull ourselves out of the tale and try to imagine what someone else would do in our shoes. Chip and Dan Heath provide a good illustration of this frame in their book [*Decisive*][12].
 
-As the CEO of Intel during the mid eighties,[Andy Grove][13] presided over the company's transition from memory to microprocessors. After having sole control of the memory market, Intel began facing stiff competition by the end of the seventies. A drastic response was needed if Intel had any hope of matching the advances being made in Japan, and there was no clear path forward. Complicating matters, in 1981, they received a big break in new business when they were selected to provide the CPU of the [first IBM PC][14]. Succeeding in the microprocessor market would also require a large investment.[^6]
+As the CEO of Intel during the mid eighties, [Andy Grove][13] presided over the company's transition from memory to microprocessors. After having sole control of the memory market, Intel began facing stiff competition by the end of the seventies. A drastic response was needed if Intel had any hope of matching the advances being made in Japan, and there was no clear path forward. Complicating matters, in 1981, they received a big break in new business when they were selected to provide the CPU of the [first IBM PC][14]. Succeeding in the microprocessor market would also require a large investment.[^6]
 
 > In the middle of 1985, after more months of fruitless debate, Grove was discussing the memory quandary in his office with Intel’s chairman and CEO, Gordon Moore. They were both fatigued by the internal deliberations. Then Grove had an inspiration:[^7]
 > 
 > I looked out the window at the Ferris Wheel of the Great America amusement park revolving in the distance, then I turned back to Gordon and I asked, “If we got kicked out and the board brought in a new CEO, what do you think he would do?” Gordon answered without hesitation, “He would get us out of memories.” I stared at him, numb, then said, “Why shouldn’t you and I walk out the door, come back in, and do it ourselves?”[^8]
 
-An obvious answer, right? Only in hindsight. In the midst of exhausting debates, the tendency is to lock into a top few solutions, devoting all attention to comparing and contrasting them. Often the right answer isn't even on the table. Sometimes these other possibilities only come to light when you consider the outside view.[^9]
+An obvious answer, right? Only in hindsight. In the midst of exhausting debate, the tendency is to lock into a top few solutions, devoting all attention to comparing and contrasting them. Often the right answer isn't even on the table. Sometimes these other possibilities only come to light when you consider the _outside view_.[^9]
 
-A shift in our frame of mind can act like a magic trick, but it isn't necessary to wait for inspiration to arrive like a bolt from the blue. Instead, collect alternate frames of mind, so you can change them when required.  Tomorrow, I'll close this miniseries on judgment and decision making with a discussion of how to recognize when these tools are required.
+A shift in our frame of mind can act like a magic trick, but it isn't necessary to wait for inspiration to arrive like a bolt from the blue. Instead, collect alternate frames of mind, so you can change them when required.  Tomorrow, I'll close this miniseries on judgment and decision making with a discussion of how to recognize when to use what we've learned.
 
 [^1]:	I will write posts about the other frames in the months ahead.
 
@@ -53,7 +52,7 @@ A shift in our frame of mind can act like a magic trick, but it isn't necessary 
 
 [^8]:	Heath, [Kindle link][18].
 
-[^9]:	For more on the Outside view, see Daniel Kahneman's [*Thinking, Fast and Slow*]()(https://www.amazon.com/dp/0374533555/?tag=potatowire-20) Chapter 23.
+[^9]:	For more on the Outside view, see Daniel Kahneman's [*Thinking, Fast and Slow*](https://www.amazon.com/dp/0374533555/?tag=potatowire-20) Chapter 23.
 
 [1]:	https://with.thegra.in/flirting-with-absurdity
 [2]:	https://with.thegra.in/fake-news-and-bad-actors

@@ -2,8 +2,8 @@
 layout: post
 title: "Somewhere"
 author: [potatowire]
-categories: 
-tags: 
+categories: series
+tags: jdm 
 banner: 
 caption: 
 ---

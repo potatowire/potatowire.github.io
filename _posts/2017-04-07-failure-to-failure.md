@@ -2,8 +2,8 @@
 layout: post
 title: "Failure to Failure"
 author: [potatowire]
-categories: 
-tags: 
+categories: series
+tags: jdm 
 banner: 
 caption: 
 ---

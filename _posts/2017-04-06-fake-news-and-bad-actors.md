@@ -2,8 +2,8 @@
 layout: post
 title: "Fake News and Bad Actors"
 author: [potatowire]
-categories: 
-tags: 
+categories: series
+tags: jdm 
 banner: 
 caption: 
 ---

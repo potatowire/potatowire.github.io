@@ -2,8 +2,8 @@
 layout: post
 title: "Judgment vs. Decision Making "
 author: [potatowire]
-categories: 
-tags: 
+categories: series
+tags: jdm 
 banner: 
 caption: 
 ---

@@ -6,7 +6,6 @@ categories: series
 tags: jdm
 banner: 
 caption: 
-published: false
 ---
 
 I've written [a lot][1] about judgment and decision making, but one thing that is often overlooked is how to recognize decision points. What good is sound judgment if we forget to exercise it?
@@ -24,7 +23,8 @@ George Eastman's invention of a dry image capture process greatly widened photog
 
 In both of these cases, the new technology was initially of a lower quality than its predecessor, but the long term benefits were huge. So what happened during the shift to digital photography? There are plenty of parallels, right? As Chip and Dan Heath describe in their book [*Decisive*][2], they did investigate digital:
 
-> In 1981, a team inside Kodak assessed the threat that would be posed by digital technology during the decade to follow. The report concluded that during the 1980s:[^1]
+> In 1981, a team inside Kodak assessed the threat that would be posed by digital technology during the decade to follow. The report concluded that during the 1980s:[^1]  
+> 
 > • The quality of prints from electronic images will not be generally acceptable to consumers as replacement for prints based on the science of photography [i.e., film].  
 > • The consumer’s desire to handle, display, and distribute prints cannot be replaced by electronic display devices.  
 > • Electronic systems (camera and viewing input device for TV) will not be low enough in price to have widespread appeal.[^2]

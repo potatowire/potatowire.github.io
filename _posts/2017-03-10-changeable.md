@@ -3,7 +3,7 @@ layout: post
 title: "Changeable?"
 author: [potatowire]
 categories: biography 
-tags: Churchill 
+tags: Churchill jdm
 ---
 
 One of the most interesting things for me when reading a biography is when the individual is wrong. I have [previously noted](https://with.thegra.in/visions-of-glory) that Winston Churchill was changeable, but he was so in the way an admitted, unapologetic egoist is changeable. 

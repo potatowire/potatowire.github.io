@@ -3,7 +3,7 @@ layout: post
 title: "The Invasion of Poland and Market Losses"
 author: [potatowire]
 categories: biography 
-tags: Churchill judgement 
+tags: Churchill jdm
 ---
 
 As the [second volume of *The Last Lion*](https://www.amazon.com/dp/product/B0092XHV4Y/&tag=potatowire-20) winds down, but not before one more abortive attempt at peace.

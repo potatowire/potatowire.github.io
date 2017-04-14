@@ -2,7 +2,7 @@
 layout: post
 title: "Historical Accuracy"
 author: [potatowire]
-tags: judgment
+tags: jdm 
 ---
 
 One of my concerns when reading history of any sort is that the facts sometimes seem to fit together a little too easily. I've read too much about our untrustworthy memories and logical fallacies to believe myself most of the time. I certainly don't trust anyone else.

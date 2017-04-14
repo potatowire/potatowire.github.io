@@ -3,7 +3,7 @@ layout: post
 title: "Preconceptions"
 author: [potatowire]
 categories: biography 
-tags: Churchill
+tags: Churchill jdm 
 ---
 
 As I continued [The Last Lion Volume II](https://www.amazon.com/dp/product/B0092XHV4Y/&tag=potatowire-20) Churchill remained in the "political wilderness," seemingly alone in opposition to [Baldwin's](https://en.wikipedia.org/wiki/Stanley_Baldwin) and [Chamberlain's](https://en.m.wikipedia.org/wiki/Neville_Chamberlain) policy of [appeasing](https://en.wikipedia.org/wiki/Appeasement) Hitler. I was struck by Churchill's remarkably clear *strategic* perspective on the threat posed by Hitler and Germany, but he did have some *tactical* misperceptions. 

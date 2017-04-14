@@ -3,7 +3,7 @@ layout: post
 title: "Fooling Ourselves"
 author: [potatowire]
 categories: biography
-tags: Churchill judgment
+tags: Churchill judgment jdm
 ---
 
 In my reading of [The Last Lion, Volume II](https://www.amazon.com/dp/product/B0092XHV4Y/&tag=potatowire-20) the discussion has turned to [Neville Chamberlain](https://en.m.wikipedia.org/wiki/Neville_Chamberlain)'s continuation of [Appeasement](https://en.wikipedia.org/wiki/Appeasement), and once again I think there's a good lesson here for life in general.

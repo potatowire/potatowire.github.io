@@ -6,7 +6,6 @@ categories: series
 tags: jdm
 banner: 
 caption: 
-published: false
 ---
 
 [Yesterday][1], we discussed the benefits of checklists, but they are not applicable to every situation. Checklists are great when we need to replicate the same behavior every time, but even if they are tailored well and are flexible, sometimes we want more room for creativity.
@@ -26,15 +25,15 @@ As a real-world example, the Heaths describes the process used by Dion Hughes an
 > 
 > There’s a brute-force aspect to the strategy used by Hughes and Johnson. They force themselves to consider prescribed questions, one at a time, to generate new options. A “canned” list of stimuli seems to spark fresh insights. What’s particularly surprising is that this brute-force approach can work in advertising, a domain that prizes creativity and novelty. If a playlist can work for advertisers, chances are it can work for you.[^3]
 
-These questions are the key to the functionality of a playlist, but these questions apply to most, if not all of the work Persuasion Arts & Science does. If there were more variety in the type of work, multiple different playlists can be utilized.
+These questions are the key to the functionality of a playlist, but these questions apply to most, if not all of the work Persuasion Arts & Science does. The list is made once and used many times. If there is more variety in the work, multiple different playlists can be utilized. 
 
-Playlists strike a nice balance between the deliberate prior thought that goes into a checklist and the flexibility required of a more creative endeavor. In both cases, however, there is a certain regimentation that can keep us on task and ensure completeness. There is a lot of value in deliberately setting particular frames of mind when faced with a decision, and we'll look at a few more of these frames tomorrow.
+Playlists strike a nice balance between the deliberate prior thought that goes into a checklist and the flexibility required of more creative endeavors. In both cases, however, there is a certain regimentation that can keep us on task and ensure completeness. There is a lot of value in deliberately setting particular frames of mind when faced with a decision, and we'll look at a few more of these tomorrow.
 
-[^1]:	Heath, Chip, and Dan Heath. [*Decisive: How to Make Better Choices in Life and Work*][3]. New York, NY: Crown Business Publ., Random House, 2014. [Kindle link][4]
+[^1]:	Heath, Chip, and Dan Heath. [*Decisive: How to Make Better Choices in Life and Work*][3]. New York, NY: Crown Business Publ., Random House, 2014. [Kindle link][4].
 
-[^2]:	[Kindle link][5]
+[^2]:	Heath, [Kindle link][5].
 
-[^3]:	[Kindle link][6]
+[^3]:	Heath, [Kindle link][6].
 
 [1]:	https://with.thegra.in/checklists
 [2]:	https://www.amazon.com/dp/B009JU6UPG/?tag=potatowire-20

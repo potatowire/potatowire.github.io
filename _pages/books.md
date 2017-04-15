@@ -143,3 +143,5 @@ permalink: /books
 - [*The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965*](https://www.amazon.com/dp/B0076DEPUK/?tag=potatowire-20) by [u'William Manchester', u'Paul Reid']
 - [*Choose Yourself!*](https://www.amazon.com/dp/B00CO8D3G4/?tag=potatowire-20) by James Altucher
 - [*Decisive: How to Make Better Choices in Life and Work*](https://www.amazon.com/dp/B009JU6UPG/?tag=potatowire-20) by [u'Chip Heath', u'Dan Heath']
+- [*Create Your Own Economy: The Path to Prosperity in a Disordered World*](https://www.amazon.com/dp/B002KAEMI4/?tag=potatowire-20) by Tyler Cowen
+- [*The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy*](https://www.amazon.com/dp/B0086I25S8/?tag=potatowire-20) by Jon Gordon

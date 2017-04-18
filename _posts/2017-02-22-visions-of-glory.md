@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Visions of Glory"
+tags: Churchill 
 author: [potatowire]
 ---
 

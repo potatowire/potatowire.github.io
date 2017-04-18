@@ -3,10 +3,9 @@ layout: post
 title: "Learning to Practice"
 author: [potatowire]
 categories: 
-tags: 
+tags: practice
 banner: 
 caption: 
-published: false
 ---
 
 Sometimes there is magic in defining a concept that otherwise makes intuitive sense in a more nebulous way. A prime example of this is the distinction Thomas Sterner makes between _practicing_ and _learning_ in his book [_The Practicing Mind_][1]:
@@ -17,9 +16,9 @@ Sometimes there is magic in defining a concept that otherwise makes intuitive se
 
 It is our participation in the learning process that makes all the difference. What are we passively learning every day? Worse, what are we teaching? I'm doing what I can to maximize my opportunities for _good practice_.
 
-[^1]:	Sterner, Thomas M. [*The Practicing Mind: Developing Focus and Discipline in Your Life: Master Any Skill or Challenge by Learning to Love the Process*][2]. Novato, CA: New World Library, 2012.[Kindle link][3]
+[^1]:	Sterner, Thomas M. [*The Practicing Mind: Developing Focus and Discipline in Your Life: Master Any Skill or Challenge by Learning to Love the Process*][2]. Novato, CA: New World Library, 2012. [Kindle link][3].
 
-[^2]:	[Kindle link][4]
+[^2]:	Sterner, [Kindle link][4].
 
 [1]:	https://www.amazon.com/dp/1608680908/?tag=potatowire-20
 [2]:	https://www.amazon.com/dp/1608680908/?tag=potatowire-20

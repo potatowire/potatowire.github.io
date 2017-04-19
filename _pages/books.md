@@ -146,3 +146,5 @@ permalink: /books
 - [*Create Your Own Economy: The Path to Prosperity in a Disordered World*](https://www.amazon.com/dp/B002KAEMI4/?tag=potatowire-20) by Tyler Cowen
 - [*The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy*](https://www.amazon.com/dp/B0086I25S8/?tag=potatowire-20) by Jon Gordon
 - [*Discover Your Inner Economist: Use Incentives to Fall in Love, Survive Your Next Meeting, and Motivate Your Den tist*](https://www.amazon.com/dp/B0019VWXPO/?tag=potatowire-20) by Tyler Cowen
+- [*Sapiens: A Brief History of Humankind*](https://www.amazon.com/dp/B00ICN066A/?tag=potatowire-20) by Yuval Noah Harari
+- [*Intervention: Course Corrections for the Athlete and Trainer*](https://www.amazon.com/dp/B00ABNEN3G/?tag=potatowire-20) by Dan John

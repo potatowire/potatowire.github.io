@@ -6,7 +6,6 @@ categories:
 tags: Churchill 
 banner: 
 caption: 
-published: false
 ---
 
 One of my favorite parts of [The Last Lion series][1] was how often Winston Churchill's rhetoric would grab my imagination. Take for example this small snippet from [_Defender of the Realm_][2], when Churchill was asked about post-war aims, while war was still raging[^1].

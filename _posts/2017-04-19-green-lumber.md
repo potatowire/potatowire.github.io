@@ -6,10 +6,9 @@ categories:
 tags: jdm
 banner: 
 caption: 
-published: false
 ---
 
-One of the threads running through my [series][1] on judgment and decision making was the value in having a process to reduce overthinking at decision time. Jim Paul has a good anecdote that illustrates this point nicely:
+As part of my [series][1] on judgment and decision making, I discussed the benefits of avoiding overthinking. Jim Paul has a good anecdote that illustrates this point nicely:
 
 > One morning Joe Siegel and I were on the trading floor when one of my accounts called in from vacation. “What’s lumber doing today?”
 > 

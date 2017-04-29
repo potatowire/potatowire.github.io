@@ -250,13 +250,13 @@ em, i {
 }
 
 dl, ul, ol {
-  // @include column(12,12);
+  @include column(12,12);
   padding: 0;
   margin-top: 0;
 
   dt {
-    // @include column(12,12);
-    // padding: 0;
+    @include column(12,12);
+    padding: 0;
     font-style: italic;
     font-weight: normal;
     margin-top: 0.7em;
@@ -265,13 +265,13 @@ dl, ul, ol {
   }
 
   dd {
-    // @include column(12,12);
+    @include column(12,12);
     padding: 0 0 0 0.5em;
     margin-left: 0;
   }
 
   li {
-    // @include column(12,12);
+    @include column(12,12);
     display: list-item;
     padding: 0;
     margin-left: 1.3em;

@@ -151,3 +151,5 @@ permalink: /books
 - [*A Tan and Sandy Silence: A Travis McGee Novel*](https://www.amazon.com/dp/B009FKW0OA?tag=potatowire-20) by John D. MacDonald
 - [*Loitering With Intent (Stone Barrington Book 16)*](https://www.amazon.com/dp/B0020BUWXC/?tag=potatowire-20) by Stuart Woods
 - [*The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made*](https://www.amazon.com/dp/B00BSAZ6LE/?tag=potatowire-20) by Greg Sestero and Tom Bissell
+- [*Dogs of War: A Joe Ledger Novel*](https://www.amazon.com/dp/B01M00V1RH/?tag=potatowire-20) by Jonathan Maberry
+- [*Homo Deus: A Brief History of Tomorrow*](https://www.amazon.com/dp/B01BBQ33VE/?tag=potatowire-20) by Yuval Noah Harari

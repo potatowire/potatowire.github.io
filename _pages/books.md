@@ -154,3 +154,4 @@ permalink: /books
 - [*Dogs of War: A Joe Ledger Novel*](https://www.amazon.com/dp/B01M00V1RH/?tag=potatowire-20) by Jonathan Maberry
 - [*Homo Deus: A Brief History of Tomorrow*](https://www.amazon.com/dp/B01BBQ33VE/?tag=potatowire-20) by Yuval Noah Harari
 - [*Essentialism: The Disciplined Pursuit of Less*](https://www.amazon.com/dp/B00G1J1D28/?tag=potatowire-20) by Greg McKeown
+- [*The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It*](https://www.amazon.com/dp/B005ERIRZE/?tag=potatowire-20) by Kelly McGonigal Ph.D.

@@ -153,3 +153,4 @@ permalink: /books
 - [*The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made*](https://www.amazon.com/dp/B00BSAZ6LE/?tag=potatowire-20) by Greg Sestero and Tom Bissell
 - [*Dogs of War: A Joe Ledger Novel*](https://www.amazon.com/dp/B01M00V1RH/?tag=potatowire-20) by Jonathan Maberry
 - [*Homo Deus: A Brief History of Tomorrow*](https://www.amazon.com/dp/B01BBQ33VE/?tag=potatowire-20) by Yuval Noah Harari
+- [*Essentialism: The Disciplined Pursuit of Less*](https://www.amazon.com/dp/B00G1J1D28/?tag=potatowire-20) by Greg McKeown

@@ -18,7 +18,7 @@ redirect_from: "/feed"
     </itunes:owner>
     <itunes:author>Potatowire</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{ site.url }}/assets/img/wtg-dp-itunes.png" />
+    <itunes:image href="{{ site.url }}/assets/theme/wtg-dp-itunes.png" />
     <itunes:keywords>Potatowire,Technology,Design,Ideas,Productivity,Development</itunes:keywords>
     <itunes:subtitle>An occasional audio companion to With the Grain.</itunes:subtitle>
     <itunes:summary>An occasional audio companion to Potatowire's blog, With the Grain.</itunes:summary>

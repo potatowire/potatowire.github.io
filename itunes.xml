@@ -18,7 +18,7 @@ redirect_from: "/feed"
     </itunes:owner>
     <itunes:author>Potatowire</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{ site.url }}/assets/img/tmb-itunes-icon.png" />
+    <itunes:image href="{{ site.url }}/assets/theme/wtg-dp-itunes.jpg" />
     <itunes:keywords>Potatowire,Technology,Design,Ideas,Productivity,Development</itunes:keywords>
     <itunes:subtitle>An occasional audio companion to With the Grain.</itunes:subtitle>
     <itunes:summary>An occasional audio companion to Potatowire's blog, With the Grain.</itunes:summary>
@@ -27,11 +27,10 @@ redirect_from: "/feed"
     <itunes:category text="Technology" />
     <ttl>30</ttl>
 
-    {% assign audioPosts = site.posts | where: 'layout', 'episode' %}
-
-    {% for post in audioPosts %}
+    {% for post in site.posts %}
+    {% if post.layout contains 'episode' %}
       <item>
-        <title>{{ post.episode | xml_escape }} - {{ post.title | xml_escape }}</title>
+        <title>{{ post.title | xml_escape }}</title>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         <description>{% if post.banner %}<![CDATA[<figure><img src="{{ site.url}}/assets/img/{{ post.banner }}"/><figcaption>{{ post.caption | markdownify }}</figcaption></figure>]]>{% endif %}{{ post.content | xml_escape }}{% if post.link %}<![CDATA[<div class="permalink"><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">///</a></div>]]>{% endif %}</description>
@@ -39,9 +38,10 @@ redirect_from: "/feed"
         <itunes:explicit>no</itunes:explicit>
         <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <itunes:image href="{{ site.url }}/assets/img/wtg-itunes-icon.png" />
+        <itunes:image href="{{ site.url }}/assets/theme/wtg-dp-itunes.jpg" />
         <enclosure url="https://dts.podtrac.com/redirect.mp3/audio.simplecast.com/{{ post.simplecast }}.mp3" length="0" type="audio/mpeg" />
       </item>
+      {% endif %}
     {% endfor %}
   </channel>
 </rss>

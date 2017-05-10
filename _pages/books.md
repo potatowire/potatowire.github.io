@@ -155,3 +155,4 @@ permalink: /books
 - [*Homo Deus: A Brief History of Tomorrow*](https://www.amazon.com/dp/B01BBQ33VE/?tag=potatowire-20) by Yuval Noah Harari
 - [*Essentialism: The Disciplined Pursuit of Less*](https://www.amazon.com/dp/B00G1J1D28/?tag=potatowire-20) by Greg McKeown
 - [*The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It*](https://www.amazon.com/dp/B005ERIRZE/?tag=potatowire-20) by Kelly McGonigal Ph.D.
+- [*The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom, and Enlightenment*](https://www.amazon.com/dp/B00KF2JU2W/?tag=potatowire-20) by Guy Spier

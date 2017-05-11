@@ -1,15 +1,14 @@
 ---
-layout: post
+layout: episode
 title: "The Premortem"
 author: [potatowire]
-categories: 
-tags: jdm 
-banner: 
-caption: 
-simplecast: 69119
-twitter: https://simplecast.com/s/83063565 
-summary: "Human beings are masters of overconfidence, but we don't have to accept defeat"
-published: false
+categories:
+tags: jdm
+banner:
+caption:
+simplecast: 69325
+twitter: https://simplecast.com/s/1edddf37
+summary: "Human beings are masters of overconfidence, but we don't have to accept defeat."
 ---
 
 Human beings are masters of overconfidence. Even when we're wary of a rose-colored outlook, we find it tough to reliably determine whether a particular course of action is wise or not. This effect is not eliminated by combining fallible people together into groups, either. Daniel Kahneman describes this dynamic in his book [*Thinking, Fast and Slow*][1].

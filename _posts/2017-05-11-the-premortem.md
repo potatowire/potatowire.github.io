@@ -5,7 +5,8 @@ author: [potatowire]
 categories: 
 tags: jdm 
 banner: 
-caption: simplecast: 69119
+caption: 
+simplecast: 69119
 twitter: https://simplecast.com/s/83063565 
 summary: "Human beings are masters of overconfidence, but we don't have to accept defeat"
 published: false
@@ -15,7 +16,7 @@ Human beings are masters of overconfidence. Even when we're wary of a rose-color
 
 > Can overconfident optimism be overcome by training? I am not optimistic. There have been numerous attempts to train people to state confidence intervals that reflect the imprecision of their judgments, with only a few reports of modest success. An often cited example is that geologists at Royal Dutch Shell became less overconfident in their assessments of possible drilling sites after training with multiple past cases for which the outcome was known. In other situations, overconfidence was mitigated (but not eliminated) when judges were encouraged to consider competing hypotheses. However, overconfidence is a direct consequence of features of System 1 that can be tamed—but not vanquished. The main obstacle is that subjective confidence is determined by the coherence of the story one has constructed, not by the quality and amount of the information that supports it.[^1]
 
-[Recall][4] that_System 1_ thinking is the _fast_ variety, which can also be thought of as intuitive or less effortful thinking. In an effort to explore this issue more fully, in 2009, Kahneman collaborated with [Gary Klein][5], a research psychologist known for his work on experts' decision making processes in real-world scenarios. Kahneman makes room for his alternative perspective on intuition.
+[Recall][4] that _System 1_ thinking is the _fast_ variety, which can also be thought of as intuitive or less effortful thinking. In an effort to explore this issue more fully, in 2009, Kahneman collaborated with [Gary Klein][5], a research psychologist known for his work on experts' decision making processes in real-world scenarios. Kahneman makes room for his alternative perspective on intuition.
 
 > Organizations may be better able to tame optimism and individuals than individuals are. The best idea for doing so was contributed by Gary Klein, my “adversarial collaborator” who generally defends intuitive decision making against claims of bias and is typically hostile to algorithms. He labels his proposal the premortem . The procedure is simple: when the organization has almost come to an important decision but has not formally committed itself, Klein proposes gathering for a brief session a group of individuals who are knowledgeable about the decision. The premise of the session is a short speech: “Imagine that we are a year into the future. We implemented the plan as it now exists. The outcome was a disaster. Please take 5 to 10 minutes to write a brief history of that disaster.”[^2]
 

@@ -5,7 +5,9 @@ author: [potatowire]
 categories: 
 tags: jdm 
 banner: 
-caption: 
+caption: simplecast: 69119
+twitter: https://simplecast.com/s/83063565 
+summary: "Human beings are masters of overconfidence, but we don't have to accept defeat"
 published: false
 ---
 

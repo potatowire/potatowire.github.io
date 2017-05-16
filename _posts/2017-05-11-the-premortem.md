@@ -1,13 +1,13 @@
 ---
 layout: episode
+episode: 002
 title: "The Premortem"
 author: [potatowire]
 categories:
 tags: jdm
 banner:
 caption:
-simplecast: 69325
-twitter: https://simplecast.com/s/1edddf37
+filename: wtg002.mp3
 summary: "Human beings are masters of overconfidence, but we don't have to accept defeat."
 ---
 

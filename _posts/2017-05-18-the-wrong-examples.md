@@ -9,14 +9,13 @@ caption:
 simplecast: 
 twitter: 
 summary: ""
-published: false
 ---
 
 I find Nassim Nicholas Taleb captivating.
 
 He possesses the amazing ability to reveal and clarify what should already be obvious, but isn't. I also love the way he writes and how radical he is in his honesty. This also polarizes.
 
-In his book [*The Black Swan*][1], he analyzes the concepts of uncertainty and probability in light of the truly unpredictable. Casinos illustrate this well, and Taleb describes the situation from the perspective of one such establishment:
+In his book [*The Black Swan*][1], Taleb analyzes the concepts of uncertainty and probability in light of the truly unpredictable. Casinos illustrate this well, and he describes the situation from the perspective of one such establishment:
 
 > The casino’s risk management, aside from setting its gambling policies, was geared toward reducing the losses resulting from cheaters. One does not need heavy training in probability theory to understand that the casino was sufficiently diversified across the different tables to not have to worry about taking a hit from an extremely lucky gambler... All they had to do was control the “whales,” the high rollers flown in at the casino’s expense from Manila or Hong Kong; whales can swing several million dollars in a gambling bout. Absent cheating, the performance of most individual gamblers would be the equivalent of a drop in the bucket, making the aggregate very stable.[^1]
 > 

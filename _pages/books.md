@@ -158,3 +158,4 @@ permalink: /books
 - [*The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom, and Enlightenment*](https://www.amazon.com/dp/B00KF2JU2W/?tag=potatowire-20) by Guy Spier
 - [*When Genius Failed: The Rise and Fall of Long-Term Capital Management*](https://www.amazon.com/dp/B000FC1KZC/?tag=potatowire-20) by Roger Lowenstein
 - [*Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)*](https://www.amazon.com/dp/B001FA0W5W/?tag=potatowire-20) by Nassim Nicholas Taleb
+- [*The Black Swan: Second Edition: The Impact of the Highly Improbable (Incerto)*](https://www.amazon.com/dp/B00139XTG4/?tag=potatowire-20) by Nassim Nicholas Taleb

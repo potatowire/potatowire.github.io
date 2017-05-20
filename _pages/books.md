@@ -161,3 +161,4 @@ permalink: /books
 - [*The Black Swan: Second Edition: The Impact of the Highly Improbable (Incerto)*](https://www.amazon.com/dp/B00139XTG4/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*The Scarlet Ruse: A Travis McGee Novel*](https://www.amazon.com/dp/B008WOUF9C/?tag=potatowire-20) by John D. MacDonald
 - [*The Black Swan: Second Edition: The Impact of the Highly Improbable (Incerto)*](https://www.amazon.com/dp/B00139XTG4/?tag=potatowire-20) by Nassim Nicholas Taleb
+- [*The Bed of Procrustes: Philosophical and Practical Aphorisms (Incerto)*](https://www.amazon.com/dp/B004C43F9S/?tag=potatowire-20) by Nassim Nicholas Taleb

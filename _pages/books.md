@@ -163,3 +163,4 @@ permalink: /books
 - [*The Black Swan: Second Edition: The Impact of the Highly Improbable (Incerto)*](https://www.amazon.com/dp/B00139XTG4/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*The Bed of Procrustes: Philosophical and Practical Aphorisms (Incerto)*](https://www.amazon.com/dp/B004C43F9S/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*Think and Grow Rich*](https://www.amazon.com/dp/B00AIR8CMS/?tag=potatowire-20) by Napoleon Hill
+- *(Re-read)* [*Buffett: The Making of an American Capitalist*](https://www.amazon.com/dp/B00DPTL2F0/?tag=potatowire-20) by Roger Lowenstein

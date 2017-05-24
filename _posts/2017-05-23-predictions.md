@@ -1,19 +1,19 @@
 ---
-layout: post
+layout: episode
+episode: 005
 title: "Predictions"
 author: [potatowire]
-categories: 
-tags: 
-banner: 
-caption: 
-filename:
-summary: "Throughout _The Black Swan_,  Nassim Nicholas Taleb bemoans the prevalence of Gaussian functions, perhaps known best graphed as characteristic bell curves"
-published: false
+categories:
+tags:
+banner:
+caption:
+filename: wtg005.mp3
+summary: "Throughout _The Black Swan_,  Nassim Nicholas Taleb bemoans the prevalence of Gaussian functions, perhaps known best graphed as characteristic bell curves."
 ---
 
 Throughout [*The Black Swan*][1],  Nassim Nicholas Taleb bemoans the prevalence of [Gaussian functions][2], perhaps known best graphed as characteristic bell curves.
 
-Much of the natural world sorts itself into a bell curve, see also the [80/20 "rule,"][3] but if we expect everything to fall within a Gaussian framework, we will be continually surprised by real life. Consider my [previous discussion][4] of casino risk management. The games are all statistically reliable and predictable, but the biggest risk to its business come from non-gaming threats.
+Much of the natural world sorts itself into a bell curve (see also the [80/20 "rule,"][3]) but if we expect everything to fall within a Gaussian framework, we will be continually surprised by real life. Consider my [previous discussion][4] of casino risk management. The games are all statistically reliable and predictable, but the biggest risk to its business come from non-gaming threats.
 
 The desire to fit nature into a probabilistic straight-jacket has infected the Nobel Prize in Economics, much to Taleb's chagrin:
 

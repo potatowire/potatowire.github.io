@@ -166,3 +166,4 @@ permalink: /books
 - **(Re-read)** [*Buffett: The Making of an American Capitalist*](https://www.amazon.com/dp/B00DPTL2F0/?tag=potatowire-20) by Roger Lowenstein
 - [*Present Shock: When Everything Happens Now*](https://www.amazon.com/dp/B008EKOL1W/?tag=potatowire-20) by Douglas Rushkoff
 - [*Algorithms to Live By: The Computer Science of Human Decisions*](https://www.amazon.com/dp/B015CKNWJI/?tag=potatowire-20) by Brian Christian and Tom Griffiths
+- [*Pre-Suasion: A Revolutionary Way to Influence and Persuade*](https://www.amazon.com/dp/B01C36E2YS/?tag=potatowire-20) by Robert Cialdini

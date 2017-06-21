@@ -167,3 +167,5 @@ permalink: /books
 - [*Present Shock: When Everything Happens Now*](https://www.amazon.com/dp/B008EKOL1W/?tag=potatowire-20) by Douglas Rushkoff
 - [*Algorithms to Live By: The Computer Science of Human Decisions*](https://www.amazon.com/dp/B015CKNWJI/?tag=potatowire-20) by Brian Christian and Tom Griffiths
 - [*Pre-Suasion: A Revolutionary Way to Influence and Persuade*](https://www.amazon.com/dp/B01C36E2YS/?tag=potatowire-20) by Robert Cialdini
+- [*Assassin's Fate: Book III of the Fitz and the Fool trilogy*](https://www.amazon.com/dp/B01GYPQRYM/?tag=potatowire-20) by Robin Hobb
+- [*The Rational Optimist: How Prosperity Evolves (P.S.)*](https://www.amazon.com/dp/B003QP4BJM/?tag=potatowire-20) by Matt Ridley

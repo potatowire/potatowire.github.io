@@ -169,3 +169,8 @@ permalink: /books
 - [*Pre-Suasion: A Revolutionary Way to Influence and Persuade*](https://www.amazon.com/dp/B01C36E2YS/?tag=potatowire-20) by Robert Cialdini
 - [*Assassin's Fate: Book III of the Fitz and the Fool trilogy*](https://www.amazon.com/dp/B01GYPQRYM/?tag=potatowire-20) by Robin Hobb
 - [*The Rational Optimist: How Prosperity Evolves (P.S.)*](https://www.amazon.com/dp/B003QP4BJM/?tag=potatowire-20) by Matt Ridley
+- [*Babylon's Ashes (The Expanse)*](https://www.amazon.com/dp/B018S2773Y/?tag=potatowire-20) by James S. A. Corey
+- [*The Simple Path to Wealth: Your road map to financial independence and a rich, free life*](https://www.amazon.com/dp/B01H97OQY2/?tag=potatowire-20) by JL Collins
+- [*Boomerang: Travels in the New Third World*](https://www.amazon.com/dp/B005CRQ2OE/?tag=potatowire-20) by Michael Lewis
+- [*Bold: How to Go Big, Create Wealth and Impact the World*](https://www.amazon.com/dp/B00LD1RZGM/?tag=potatowire-20) by [u'Peter H. Diamandis', u'Steven Kotler']
+- [*Shadow Divers: The True Adventure of Two Americans Who Risked Everything to Solve One of the Last Mysteries of World War II*](https://www.amazon.com/dp/B000FC1RSC/?tag=potatowire-20) by Robert Kurson

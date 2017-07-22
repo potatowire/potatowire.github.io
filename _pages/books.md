@@ -160,7 +160,6 @@ permalink: /books
 - [*Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)*](https://www.amazon.com/dp/B001FA0W5W/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*The Black Swan: Second Edition: The Impact of the Highly Improbable (Incerto)*](https://www.amazon.com/dp/B00139XTG4/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*The Scarlet Ruse: A Travis McGee Novel*](https://www.amazon.com/dp/B008WOUF9C/?tag=potatowire-20) by John D. MacDonald
-- [*The Black Swan: Second Edition: The Impact of the Highly Improbable (Incerto)*](https://www.amazon.com/dp/B00139XTG4/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*The Bed of Procrustes: Philosophical and Practical Aphorisms (Incerto)*](https://www.amazon.com/dp/B004C43F9S/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*Think and Grow Rich*](https://www.amazon.com/dp/B00AIR8CMS/?tag=potatowire-20) by Napoleon Hill
 - **(Re-read)** [*Buffett: The Making of an American Capitalist*](https://www.amazon.com/dp/B00DPTL2F0/?tag=potatowire-20) by Roger Lowenstein
@@ -174,3 +173,7 @@ permalink: /books
 - [*Boomerang: Travels in the New Third World*](https://www.amazon.com/dp/B005CRQ2OE/?tag=potatowire-20) by Michael Lewis
 - [*Bold: How to Go Big, Create Wealth and Impact the World*](https://www.amazon.com/dp/B00LD1RZGM/?tag=potatowire-20) by [u'Peter H. Diamandis', u'Steven Kotler']
 - [*Shadow Divers: The True Adventure of Two Americans Who Risked Everything to Solve One of the Last Mysteries of World War II*](https://www.amazon.com/dp/B000FC1RSC/?tag=potatowire-20) by Robert Kurson
+- [*The Undoing Project: A Friendship That Changed Our Minds*](https://www.amazon.com/dp/B01GI6S7EK/?tag=potatowire-20) by Michael Lewis
+- [*Purple Cow, New Edition: Transform Your Business by Being Remarkable*](https://www.amazon.com/dp/B00316UMS0/?tag=potatowire-20) by Seth Godin
+- [*The Language Instinct: How The Mind Creates Language (P.S.)*](https://www.amazon.com/dp/B0049B1VOU/?tag=potatowire-20) by Steven Pinker
+- [*Black Privilege: Opportunity Comes to Those Who Create It*](https://www.amazon.com/dp/B01LLXCGYC/?tag=potatowire-20) by Charlamagne Tha God

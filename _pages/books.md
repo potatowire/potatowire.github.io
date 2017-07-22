@@ -177,3 +177,4 @@ permalink: /books
 - [*Purple Cow, New Edition: Transform Your Business by Being Remarkable*](https://www.amazon.com/dp/B00316UMS0/?tag=potatowire-20) by Seth Godin
 - [*The Language Instinct: How The Mind Creates Language (P.S.)*](https://www.amazon.com/dp/B0049B1VOU/?tag=potatowire-20) by Steven Pinker
 - [*Black Privilege: Opportunity Comes to Those Who Create It*](https://www.amazon.com/dp/B01LLXCGYC/?tag=potatowire-20) by Charlamagne Tha God
+- [*Perennial Seller: The Art of Making and Marketing Work that Lasts*](https://www.amazon.com/dp/B01N8SL7FH/?tag=potatowire-20) by Ryan Holiday

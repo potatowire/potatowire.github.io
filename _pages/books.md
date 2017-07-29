@@ -178,3 +178,5 @@ permalink: /books
 - [*The Language Instinct: How The Mind Creates Language (P.S.)*](https://www.amazon.com/dp/B0049B1VOU/?tag=potatowire-20) by Steven Pinker
 - [*Black Privilege: Opportunity Comes to Those Who Create It*](https://www.amazon.com/dp/B01LLXCGYC/?tag=potatowire-20) by Charlamagne Tha God
 - [*Perennial Seller: The Art of Making and Marketing Work that Lasts*](https://www.amazon.com/dp/B01N8SL7FH/?tag=potatowire-20) by Ryan Holiday
+- [*Shoe Dog: A Memoir by the Creator of Nike*](https://www.amazon.com/dp/B0176M1A44/?tag=potatowire-20) by Phil Knight
+- [*The Jerusalem Syndrome: My Life as a Reluctant Messiah*](https://www.amazon.com/dp/B000FC1IVS/?tag=potatowire-20) by Marc Maron

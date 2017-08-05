@@ -180,3 +180,5 @@ permalink: /books
 - [*Perennial Seller: The Art of Making and Marketing Work that Lasts*](https://www.amazon.com/dp/B01N8SL7FH/?tag=potatowire-20) by Ryan Holiday
 - [*Shoe Dog: A Memoir by the Creator of Nike*](https://www.amazon.com/dp/B0176M1A44/?tag=potatowire-20) by Phil Knight
 - [*The Jerusalem Syndrome: My Life as a Reluctant Messiah*](https://www.amazon.com/dp/B000FC1IVS/?tag=potatowire-20) by Marc Maron
+- [*I Can't Make This Up: Life Lessons*](https://www.amazon.com/dp/B01MYWFGRM/?tag=potatowire-20) by Kevin Hart
+- [*The Wisdom of Insecurity*](https://www.amazon.com/dp/B005YNPBH0/?tag=potatowire-20) by Alan W. Watts

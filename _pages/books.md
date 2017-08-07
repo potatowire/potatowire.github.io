@@ -182,3 +182,4 @@ permalink: /books
 - [*The Jerusalem Syndrome: My Life as a Reluctant Messiah*](https://www.amazon.com/dp/B000FC1IVS/?tag=potatowire-20) by Marc Maron
 - [*I Can't Make This Up: Life Lessons*](https://www.amazon.com/dp/B01MYWFGRM/?tag=potatowire-20) by Kevin Hart
 - [*The Wisdom of Insecurity*](https://www.amazon.com/dp/B005YNPBH0/?tag=potatowire-20) by Alan W. Watts
+- [*The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results*](https://www.amazon.com/dp/B00C1BHQXK/?tag=potatowire-20) by [u'Gary Keller', u'Jay Papasan']

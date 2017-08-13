@@ -8,7 +8,6 @@ banner:
 caption: 
 filename: 
 summary: "Isn’t it neat we can use a marshmallow to predict the future?"
-published: false
 ---
 
 I am very wary of a story that fits together too well. 
@@ -38,6 +37,10 @@ You know what also forecasts a tough life, besides purportedly missing *grit*? U
 This also breaks my heart a little, because I am forced to confront the fact that too many kids are surrounded by unreliable adults. These unreliable adults may be criminals, drug addicts, or good people trying their damndest to put food on the table, too often failing to follow through on their promises.
 
 Beware neat lessons.
+
+* * * * * * 
+
+Before you go, please consider filling out my [survey][10] and signing up for my [newsletter][11].
 
 [^1]:	There’s been *reproducibility* problems with this, and many other studies within behavior psychology, but if you dig in a little, you’ll see that subsequent researchers changed enough material factors, seeking universality and experimental reliability, that you have to wonder if the changes might be the actual problem. This stuff’s complicated.
 
@@ -70,3 +73,5 @@ Beware neat lessons.
 [7]:	http://a.co/685nMWU
 [8]:	http://a.co/5KvUEMU
 [9]:	http://a.co/ehB0uIZ
+[10]:	https://docs.google.com/forms/d/e/1FAIpQLSeiJGU2ctaIXvSS5h9ziU7KKgwHJMLEyZs6WCnjsYKUHeNRiA/viewform?usp=sf_link
+[11]:	https://with.thegra.in/newsletter

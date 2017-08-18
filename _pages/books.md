@@ -183,3 +183,5 @@ permalink: /books
 - [*I Can't Make This Up: Life Lessons*](https://www.amazon.com/dp/B01MYWFGRM/?tag=potatowire-20) by Kevin Hart
 - [*The Wisdom of Insecurity*](https://www.amazon.com/dp/B005YNPBH0/?tag=potatowire-20) by Alan W. Watts
 - [*The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results*](https://www.amazon.com/dp/B00C1BHQXK/?tag=potatowire-20) by [u'Gary Keller', u'Jay Papasan']
+- [*David and Goliath: Underdogs, Misfits, and the Art of Battling Giants*](https://www.amazon.com/dp/B00BAXFAOW/?tag=potatowire-20) by Malcolm Gladwell
+- [*Al Franken, Giant of the Senate*](https://www.amazon.com/dp/B01LL8BRRE/?tag=potatowire-20) by Al Franken

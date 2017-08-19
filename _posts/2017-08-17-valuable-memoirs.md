@@ -6,7 +6,6 @@ categories:
 tags: 
 banner: 
 caption:
-published: false
 ---
 
 I’ve [recently been reading][1] a lot of memoirs.

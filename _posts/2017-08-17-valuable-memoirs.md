@@ -20,7 +20,7 @@ For example, we can read success stories, note that we have things in common wit
 
 Having decided their utility, I can now read memoirs in peace. A part of me[^2] wishes that entertainment value alone would have been enough for me, but I am just as God made me.
 
-*Programming note: I wrote and published...er...thought I published this last night, os I am still on track. Kinda.*
+*Programming note: I wrote and published...er...thought I published this last night, so I am still on track. Kinda.*
 
 [^1]:	Beyond what I talk about in this linked post, there is an extension of this general principle to the creative power of just knowing something has been done. For example, while it is debatable whether, or how much benefit espionage had on the Soviet Union development of nuclear weapons, there is a school of thought that once the Soviet scientists knew the Americans had made a bomb—that it was *for sure* possible—their own development accelerated. Other examples abound in history.
 

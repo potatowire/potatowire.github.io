@@ -24,7 +24,7 @@ Tomorrow, I’ll talk a little about my third memory trick.
 
 [^3]:	Yes, I have always been a grandpa in my sensibilities. No, I am not a grandpa and am about 20 from having most of my behavior being justified. I think I’ll put the [Werther's Originals][3] in my right-front pocket, when it’s time.
 
-[^4]:	Okay, websites that encapsulated the studies.
+[^4]:	Okay, websites that summarized the studies.
 
 [1]:	https://with.thegra.in/in-the-cards
 [2]:	https://www.amazon.com/dp/0143120530/?tag=potatowire-20

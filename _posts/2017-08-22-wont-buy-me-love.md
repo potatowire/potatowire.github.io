@@ -20,10 +20,6 @@ So, in my first attempt[^3] to fix myself, I am on a personal spending freeze. I
 
 I need to fix this money thing, and it’s time to get started. I know I'll make some mistakes, but that's okay. They'll just be datapoints in my self-improvement experiment. I’m gonna get [better][3].
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTGIMzzib691ffk6iHHPcQ0xJZOq-ZDbliVjdJFDcUuyU-3Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-Click [here][4] if the survey didn’t load.
-
 [^1]:	Insert here, "if I do say so myself" and other assorted false modesty.
 
 [^2]:	She's not materialistic, but I find great joy in buying her anniversary antique rings from estate sales (she’s a classy broad) and stretching our "budget" (the quotes reflect the level of my budgeting abilities) to put her in a house I know she'll love.

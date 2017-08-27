@@ -3,7 +3,7 @@ layout: post
 title: "Wasteful Worry"
 author: [potatowire]
 categories: 
-tags: 
+tags: worry
 banner: 
 caption:
 ---

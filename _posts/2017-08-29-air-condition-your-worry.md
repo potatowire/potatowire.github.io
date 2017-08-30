@@ -38,7 +38,7 @@ When you’re done, you’ll know what to do next.
 
 ---- 
 
-This post is one part in a [series on worry][https://with.thegra.in/archive?search=worry]. Feel free to dip in anywhere or [start at the beginning][https://with.thegra.in/wasteful-worry].
+This post is one part in a [series on worry](https://with.thegra.in/archive?search=worry). Feel free to dip in anywhere or [start at the beginning](https://with.thegra.in/wasteful-worry).
 
 [^1]:	Wait for it...
 

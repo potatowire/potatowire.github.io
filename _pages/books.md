@@ -186,3 +186,6 @@ permalink: /books
 - [*David and Goliath: Underdogs, Misfits, and the Art of Battling. Giants*](https://www.amazon.com/dp/B00BAXFAOW/?tag=potatowire-20) by Malcolm Gladwell
 - [*Al Franken, Giant of the Senate*](https://www.amazon.com/dp/B01LL8BRRE/?tag=potatowire-20) by Al Franken
 - [*Made to Stick: Why Some Ideas Survive and Others Die*](https://www.amazon.com/dp/B000N2HCKQ/?tag=potatowire-20) by Chip & Dan Heath
+- [*Legacy of Ashes: The History of the CIA*](https://www.amazon.com/dp/B0010SIPZ8/?tag=potatowire-20) by Tim Weiner
+- [*The Wizard of Lies: Bernie Madoff and the Death of Trust*](https://www.amazon.com/dp/B004OA6402/?tag=potatowire-20) by Diana B. Henriques
+- [*Sell or Be Sold: How to Get Your Way in Business and in Life*](https://www.amazon.com/dp/B007FUDRB2/?tag=potatowire-20) by Grant Cardone

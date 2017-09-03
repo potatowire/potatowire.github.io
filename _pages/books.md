@@ -189,3 +189,4 @@ permalink: /books
 - [*Legacy of Ashes: The History of the CIA*](https://www.amazon.com/dp/B0010SIPZ8/?tag=potatowire-20) by Tim Weiner
 - [*The Wizard of Lies: Bernie Madoff and the Death of Trust*](https://www.amazon.com/dp/B004OA6402/?tag=potatowire-20) by Diana B. Henriques
 - [*Sell or Be Sold: How to Get Your Way in Business and in Life*](https://www.amazon.com/dp/B007FUDRB2/?tag=potatowire-20) by Grant Cardone
+- [*Switch: How to Change Things When Change Is Hard*](https://www.amazon.com/dp/B0030DHPGQ/?tag=potatowire-20) by [u'Chip Heath', u'Dan Heath']

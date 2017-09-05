@@ -9,6 +9,7 @@ caption:
 ---
 
 "A man is what he thinks about all day long."[^1]
+
 -Ralph Waldo Emerson
 
 During the next few days in the [*worry*][2] series, we are going to focus on cultivating the right mental attitude. Stay tuned.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tbd"
+title: "A Skunk's Revenge"
 author: [potatowire]
 categories: 
 tags: worry

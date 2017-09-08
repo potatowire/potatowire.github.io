@@ -6,7 +6,6 @@ categories:
 tags: worry
 banner: 
 caption: 
-published: false
 ---
 
 Unfair expectations are all too often the source of resentment in our daily lives.
@@ -18,6 +17,8 @@ At times like this, it is useful to remember the words of Roman Emperor Marcus A
 Put another way: people suck, and that’s okay.
 
 ---- 
+
+*This should have been posted yesterday (Jekyll YAML failure) when I wrote it, so I’m still counting my streak as being intact. The length of the post belies the amount of time it took to make words come out of my head.*
 
 This post is one part in a [series on worry][2]. Feel free to dip in anywhere or [start at the beginning][3].
 

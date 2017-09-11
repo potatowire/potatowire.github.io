@@ -16,7 +16,7 @@ I go through phases when all I want to do is learn. During these periods, I can�
 
 I also go through phases when I need lighter fare. During these periods, I read memoirs or *turns out* pop science, and I fall down lots of internet rabbit holes.
 
-This best decision I ever made was to stop trying to control which phase I’m in. It’s pointless, and I invariably learn something worthwhile anyway. This is the basis of the[*adjacent possible*][1], and it's vital to creativity.
+This best decision I ever made was to stop trying to control which phase I’m in. It’s pointless, and I invariably learn something worthwhile anyway. This is the basis of the [*adjacent possible*][1], and it's vital to creativity.
 
 It’s all about getting [better][2].
 

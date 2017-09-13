@@ -192,3 +192,5 @@ permalink: /books
 - [*Switch: How to Change Things When Change Is Hard*](https://www.amazon.com/dp/B0030DHPGQ/?tag=potatowire-20) by [u'Chip Heath', u'Dan Heath']
 - [*The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage*](https://www.amazon.com/dp/B00WPQHK14/?tag=potatowire-20) by [u'Daymond John', u'Daniel Paisner']
 - [*Triggers: Creating Behavior That Lasts--Becoming the Person You Want to Be*](https://www.amazon.com/dp/B00N6PEN0Y/?tag=potatowire-20) by [u'Marshall Goldsmith', u'Mark Reiter']
+- [*Smarter Faster Better: The Transformative Power of Real Productivity*](https://www.amazon.com/dp/B00Z3FRYB0/?tag=potatowire-20) by Charles Duhigg
+- [*Mao’s Last Dancer*](https://www.amazon.com/Maos-Last-Dancer-Movie-Tie-ebook/dp/B003XMWT6A/?tag=potatowire-20)

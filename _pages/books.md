@@ -29,7 +29,7 @@ permalink: /books
 - [*How to Read a Book: The Classic Guide to Intelligent Reading (A Touchstone book)*](https://www.amazon.com/dp/0671212095/?tag=potatowire-20) by Mortimer J. Adler
 - [*How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life*](https://www.amazon.com/dp/1591847745/?tag=potatowire-20) by Scott Adams
 - [*The Magic of Thinking Big*](https://www.amazon.com/dp/0671646788/?tag=potatowire-20) by David J. Schwartz
-- [*The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich*](https://www.amazon.com/dp/0307465357/?tag=potatowire-20) by Timothy Ferriss
+- **(Re-read)** [*The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich*](https://www.amazon.com/dp/0307465357/?tag=potatowire-20) by Timothy Ferriss
 - [*The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life*](https://www.amazon.com/dp/0547884591/?tag=potatowire-20) by Timothy Ferriss
 - [*The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life*](https://www.amazon.com/dp/0062457713/?tag=potatowire-20) by Mark Manson
 - [*MONEY Master the Game: 7 Simple Steps to Financial Freedom*](https://www.amazon.com/dp/1476757801/?tag=potatowire-20) by Tony Robbins
@@ -162,7 +162,7 @@ permalink: /books
 - [*The Scarlet Ruse: A Travis McGee Novel*](https://www.amazon.com/dp/B008WOUF9C/?tag=potatowire-20) by John D. MacDonald
 - [*The Bed of Procrustes: Philosophical and Practical Aphorisms (Incerto)*](https://www.amazon.com/dp/B004C43F9S/?tag=potatowire-20) by Nassim Nicholas Taleb
 - [*Think and Grow Rich*](https://www.amazon.com/dp/B00AIR8CMS/?tag=potatowire-20) by Napoleon Hill
-- **(Re-read)** [*Buffett: The Making of an American Capitalist*](https://www.amazon.com/dp/B00DPTL2F0/?tag=potatowire-20) by Roger Lowenstein
+- **(Re-read)** [*yBuffett: The Making of an American Capitalist*](https://www.amazon.com/dp/B00DPTL2F0/?tag=potatowire-20) by Roger Lowenstein
 - [*Present Shock: When Everything Happens Now*](https://www.amazon.com/dp/B008EKOL1W/?tag=potatowire-20) by Douglas Rushkoff
 - [*Algorithms to Live By: The Computer Science of Human Decisions*](https://www.amazon.com/dp/B015CKNWJI/?tag=potatowire-20) by Brian Christian and Tom Griffiths
 - [*Pre-Suasion: A Revolutionary Way to Influence and Persuade*](https://www.amazon.com/dp/B01C36E2YS/?tag=potatowire-20) by Robert Cialdini
@@ -195,3 +195,5 @@ permalink: /books
 - [*Smarter Faster Better: The Transformative Power of Real Productivity*](https://www.amazon.com/dp/B00Z3FRYB0/?tag=potatowire-20) by Charles Duhigg
 - [*Mao’s Last Dancer*](https://www.amazon.com/Maos-Last-Dancer-Movie-Tie-ebook/dp/B003XMWT6A/?tag=potatowire-20)
 - [*Managing Oneself (Harvard Business Review Classics)*](https://www.amazon.com/dp/B00TXS49UW/?tag=potatowire-20) by Peter Ferdinand Drucker
+- [*#AskGaryVee: One Entrepreneur's Take on Leadership, Social Media, and Self-Awareness*](https://www.amazon.com/dp/B00Z71HW8A/?tag=potatowire-20) by Gary Vaynerchuk
+- [*Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000*](https://www.amazon.com/dp/B01M9C1Y3S/?tag=potatowire-20) by Jason Calacanis

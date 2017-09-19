@@ -197,3 +197,6 @@ permalink: /books
 - [*Managing Oneself (Harvard Business Review Classics)*](https://www.amazon.com/dp/B00TXS49UW/?tag=potatowire-20) by Peter Ferdinand Drucker
 - [*#AskGaryVee: One Entrepreneur's Take on Leadership, Social Media, and Self-Awareness*](https://www.amazon.com/dp/B00Z71HW8A/?tag=potatowire-20) by Gary Vaynerchuk
 - [*Angel: How to Invest in Technology Startups—Timeless Advice from an Angel Investor Who Turned $100,000 into $100,000,000*](https://www.amazon.com/dp/B01M9C1Y3S/?tag=potatowire-20) by Jason Calacanis
+- [*The 10X Rule: The Only Difference Between Success and Failure*](https://www.amazon.com/dp/B004X75OES/?tag=potatowire-20) by Grant Cardone
+- [*The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy*](https://www.amazon.com/dp/B00Z3G239W/?tag=potatowire-20) by Chris Bailey
+- [*Attempting Normal*](https://www.amazon.com/dp/B00B3GMPFS/?tag=potatowire-20) by Marc Maron

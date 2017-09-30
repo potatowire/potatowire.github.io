@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Needy Needs"
-author: [potatowire]()
+author: [potatowire]
 categories: 
 tags: 
 banner: 

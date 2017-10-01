@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Halcyon Days”
+title: "Halcyon Days"
 author: [potatowire]
 categories: 
 tags: 

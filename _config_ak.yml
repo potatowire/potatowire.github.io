@@ -18,6 +18,7 @@ permalink: :title
 gems: [jekyll-paginate, jekyll-gist, rouge, jekyll-redirect-from, jekyll-sitemap, jekyll-feed]
 include: ["_pages"]
 archiveurl: http://archive.difficultpodcasts.fm/wtg/
+timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown

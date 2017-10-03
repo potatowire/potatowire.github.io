@@ -1,4 +1,4 @@
-—
+---
 layout: post
 title: "Social Periphery"
 author: [potatowire]
@@ -6,7 +6,7 @@ categories:
 tags: tragedy
 banner: 
 caption:
-—
+---
 
 In the aftermath of another tragedy, I’d like to encourage you to quit Twitter.[^1]
 

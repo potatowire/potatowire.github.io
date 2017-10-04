@@ -200,3 +200,4 @@ permalink: /books
 - [*The 10X Rule: The Only Difference Between Success and Failure*](https://www.amazon.com/dp/B004X75OES/?tag=potatowire-20) by Grant Cardone
 - [*The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy*](https://www.amazon.com/dp/B00Z3G239W/?tag=potatowire-20) by Chris Bailey
 - [*Attempting Normal*](https://www.amazon.com/dp/B00B3GMPFS/?tag=potatowire-20) by Marc Maron
+- [*Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture*](https://www.amazon.com/dp/B000FBFNL0/?tag=potatowire-20) by David Kushner

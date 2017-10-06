@@ -16,13 +16,13 @@ It might be useful to point out that I made allowances for the week's actual eve
 
 Improving my daily discipline is this week's goal, and I want to strengthen my morning routine. No part of my routine will be revolutionary, but executing it together in combination will allow me to establish a good foundation. Generalizing, my routine will look something like this: 
 
-* I will begin each morning with a blank page in front of me, writing out worries, goals, garbage thoughts, and whatever else, so I can begin each day with a clear mind. This will be a baby step towards meditation, perhaps.[^1] 
+First, I will begin each morning with a blank page in front of me, writing out worries, goals, garbage thoughts, and whatever else, so I can begin each day with a clear mind. This will be a baby step towards meditation, perhaps.[^1] 
 
-* Second, I will do a 15 to 20 minute workout, followed by a 30 minute walk. The idea here is to have a good start that really isn’t about a workout program. That would be separate.
+Second, I will do a 15 to 20 minute workout, followed by a 30 minute walk. The idea here is to have a good start that really isn’t about a workout program. That would be separate.
 
-* Third, I will do a little [cold therapy][4], because it sounds interesting, and I don’t like the cold. I want to do something each morning that I really don’t want to. A discipline check, if you will.
+Third, I will do a little [cold therapy][4], because it sounds interesting, and I don’t like the cold. I want to do something each morning that I really don’t want to. A discipline check, if you will.
 
-* Lastly, I will listen to a learning book on my drive to work. I make car-time learning-time, because it changes my commute from wasted time to time well spent. This mental shift in perspective is very useful.
+Lastly, I will listen to a learning book on my drive to work. I make car-time learning-time, because it changes my commute from wasted time to time well spent. This mental shift in perspective is very useful.
 
 So, that’s it. Nothing fancy. I’ll let you know how it goes.
 

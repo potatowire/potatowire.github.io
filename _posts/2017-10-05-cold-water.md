@@ -12,7 +12,7 @@ Tonight seems like a good time to update the progress on my [week's goal][1]. In
 
 I forgot my own cardinal rule of habit setting: a new habit has to begin with *one* thing *so easy* I can’t help but follow through. I figured my desired routine was simple enough. That it was easy enough. Nope.
 
-The first couple days, perfect. Then, my old friend *fatigue* set in. You see, even my "easy" routine required an additional hour or so of extra time, and because I am perpetually sleep-deprived, I couldn’t didn’t get up early enough yesterday to make it happen. Not even my public commitment here could get me out of bed, because I didn’t just need to do just *one* thing. I had to do *four* things. Four things is way too much for sleeping-me to handle. I’m might as well do *no* thing.
+The first couple days, perfect. Then, my old friend *fatigue* set in. You see, even my "easy" routine required an additional hour or so of extra time, and because I am perpetually sleep-deprived, I <strike>couldn’t</strike> didn’t get up early enough yesterday to make it happen. Not even my public commitment here could get me out of bed, because I didn’t just need to do just *one* thing. I had to do *four* things. Four things is way too much for sleeping-me to handle. I’m might as well do *no* thing.
 
 Except I did manage to stick with one part of my plan, because I kept up with my entry into cold therapy. Since I take a shower in the morning every day, I can just use full cold water while shampooing my hair. In other words, time is no factor. Plus, it is only *one* thing, so I can’t help but follow through.
 

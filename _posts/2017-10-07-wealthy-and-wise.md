@@ -34,7 +34,7 @@ So it goes.
 
 [^3]:	In the story, the monograph here was the German publication of the writings of Howard W. Campbell, Jr., an American who rose highly in the German Ministry of Propaganda.
 
-[^4]:		Vonnegut, [link][4].
+[^4]:	Vonnegut, [link][4].
 
 [1]:	http://amzn.to/2yxCzHV
 [2]:	http://amzn.to/2yxCzHV

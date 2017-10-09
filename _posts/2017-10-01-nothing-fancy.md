@@ -3,7 +3,7 @@ layout: post
 title: "Nothing Fancy"
 author: [potatowire]
 categories: 
-tags: 
+tags: weekly
 banner: 
 caption:
 ---

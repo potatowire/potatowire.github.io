@@ -3,7 +3,7 @@ layout: post
 title: "Frittering"
 author: [potatowire]
 categories: 
-tags: 
+tags: weekly
 banner: 
 caption:
 ---

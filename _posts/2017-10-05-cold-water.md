@@ -3,7 +3,7 @@ layout: post
 title: "Cold Water"
 author: [potatowire]
 categories: 
-tags: 
+tags: weekly
 banner: 
 caption:
 ---

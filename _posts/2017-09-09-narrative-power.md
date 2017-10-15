@@ -3,7 +3,7 @@ layout: post
 title: "Narrative Power"
 author: [potatowire]
 categories: 
-tags: narratives
+tags: narratives empathy
 banner: 
 caption:
 ---

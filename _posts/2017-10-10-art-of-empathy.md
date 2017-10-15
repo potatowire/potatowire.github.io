@@ -3,7 +3,7 @@ layout: post
 title: "The Art of Empathy"
 author: [potatowire]
 categories: 
-tags: 
+tags: empathy 
 banner: 
 caption:
 ---

@@ -6,7 +6,6 @@ categories:
 tags: 
 banner: 
 caption:
-published: false
 ---
 
 I’m a strong believer in avoiding the middle ground.

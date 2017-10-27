@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Equilibrium"
-author: [potatowire]()
+author: [potatowire](),
 categories: 
 tags: habits
 banner: 

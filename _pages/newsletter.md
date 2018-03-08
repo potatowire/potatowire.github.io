@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <!DOCTYPE html>
 <!--[if lte IE 7]> <html class="ie-lte7" dir="ltr"> <![endif]-->
 <!--[if lte IE 9]> <html class="ie-lte9" dir="ltr"> <![endif]-->
